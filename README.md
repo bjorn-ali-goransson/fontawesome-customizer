@@ -4,3 +4,4 @@ Generate Font Awesome webfonts with only the glyphs you need. (Most of the libs 
 
 # Roadmap
 
+* Create a gulp task
