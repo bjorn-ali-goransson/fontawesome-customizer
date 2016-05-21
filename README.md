@@ -6,7 +6,6 @@ Point is to be able to make a gulp task and automate the creation of an optimize
 
 # Roadmap
 
-* Config with to reference FontAwesome glyph names, something like `'fa-circle'` etc
 * Get rid of Fontello `server_config.js`:
   * Remove `server_config.js`
   * `npm install fontawesome`
