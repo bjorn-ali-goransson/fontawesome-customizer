@@ -7,11 +7,7 @@ var fontname = 'fontawesome-webfont';
 
 var outputDirectory = 'generated';
 
-var glyphs = ['play', 'times']; //process.argv;
-
-if(!glyphs){
-  console.log('Usage: node ./ thumbs-up thumbs-down play times'); return; // I think ... on my Windows machine, process.argv is always undefined
-}
+var glyphs = process.argv; // ['heart', 'times', 'star'];
 
 
 
