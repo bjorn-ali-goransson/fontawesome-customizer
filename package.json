@@ -8,6 +8,7 @@
   "repository": "bjorn-ali-goransson/fontawesome-customizer",
   "dependencies": {
     "font-awesome": "^4.6.1",
+    "glob": "^7.0.3",
     "less": "^2.7.1",
     "lodash": "^4.12.0",
     "mkdirp": "^0.5.1",
