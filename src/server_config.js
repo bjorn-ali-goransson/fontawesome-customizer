@@ -4,9 +4,6 @@ module.exports = {
       "css": "glass",
       "code": 127864,
       "uid": "cfaa8fbbdcc7bb8d636cb974aad1f9b9",
-      "search": [
-        "glass"
-      ],
       "charRef": 61474,
       "fontname": "fontawesome",
       "svg": {
@@ -18,12 +15,6 @@ module.exports = {
       "css": "music",
       "code": 9835,
       "uid": "9ea0a737ccc45d6c510dcbae56058849",
-      "search": [
-        "music",
-        "note",
-        "song",
-        "sound"
-      ],
       "charRef": 61475,
       "fontname": "fontawesome",
       "svg": {
@@ -35,10 +26,6 @@ module.exports = {
       "css": "search",
       "code": 128269,
       "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
-      "search": [
-        "search",
-        "find"
-      ],
       "charRef": 61476,
       "fontname": "fontawesome",
       "svg": {
@@ -50,10 +37,6 @@ module.exports = {
       "css": "mail",
       "code": 9993,
       "uid": "bf882b30900da12fca090d9796bc3030",
-      "search": [
-        "mail",
-        "email"
-      ],
       "charRef": 61477,
       "fontname": "fontawesome",
       "svg": {
@@ -65,10 +48,6 @@ module.exports = {
       "css": "mail-alt",
       "code": 61664,
       "uid": "ccc2329632396dc096bb638d4b46fb98",
-      "search": [
-        "mail",
-        "email"
-      ],
       "charRef": 61478,
       "fontname": "fontawesome",
       "svg": {
@@ -80,10 +59,6 @@ module.exports = {
       "css": "mail-squared",
       "code": 61849,
       "uid": "17c21cd98db80e521e573eba247bd69b",
-      "search": [
-        "mail",
-        "email"
-      ],
       "charRef": 61479,
       "fontname": "fontawesome",
       "svg": {
@@ -95,9 +70,6 @@ module.exports = {
       "css": "heart",
       "code": 9829,
       "uid": "d73eceadda1f594cec0536087539afbf",
-      "search": [
-        "heart"
-      ],
       "charRef": 61480,
       "fontname": "fontawesome",
       "svg": {
@@ -109,9 +81,6 @@ module.exports = {
       "css": "heart-empty",
       "code": 9825,
       "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
-      "search": [
-        "heart"
-      ],
       "charRef": 61481,
       "fontname": "fontawesome",
       "svg": {
@@ -123,9 +92,6 @@ module.exports = {
       "css": "star",
       "code": 9733,
       "uid": "474656633f79ea2f1dad59ff63f6bf07",
-      "search": [
-        "star"
-      ],
       "charRef": 61482,
       "fontname": "fontawesome",
       "svg": {
@@ -137,9 +103,6 @@ module.exports = {
       "css": "star-empty",
       "code": 9734,
       "uid": "d17030afaecc1e1c22349b99f3c4992a",
-      "search": [
-        "star"
-      ],
       "charRef": 61483,
       "fontname": "fontawesome",
       "svg": {
@@ -151,9 +114,6 @@ module.exports = {
       "css": "star-half",
       "code": 59137,
       "uid": "8f8278fbe5a2a0ea836be3c408b005d2",
-      "search": [
-        "star"
-      ],
       "charRef": 61484,
       "fontname": "fontawesome",
       "svg": {
@@ -165,9 +125,6 @@ module.exports = {
       "css": "star-half-alt",
       "code": 61731,
       "uid": "84cf1fcc3fec556e7eaeb19679ca2dc9",
-      "search": [
-        "star"
-      ],
       "charRef": 61485,
       "fontname": "fontawesome",
       "svg": {
@@ -179,11 +136,6 @@ module.exports = {
       "css": "user",
       "code": 128100,
       "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
-      "search": [
-        "profile",
-        "contact",
-        "user"
-      ],
       "charRef": 61486,
       "fontname": "fontawesome",
       "svg": {
@@ -195,11 +147,6 @@ module.exports = {
       "css": "user-plus",
       "code": 62004,
       "uid": "1bafeeb1808a5fe24484c7890096901a",
-      "search": [
-        "user",
-        "plus",
-        "add"
-      ],
       "charRef": 61487,
       "fontname": "fontawesome",
       "svg": {
@@ -211,11 +158,6 @@ module.exports = {
       "css": "user-times",
       "code": 62005,
       "uid": "fb1c59faa93eb6e2248c2456625b08a2",
-      "search": [
-        "user",
-        "remove",
-        "delete"
-      ],
       "charRef": 61488,
       "fontname": "fontawesome",
       "svg": {
@@ -227,11 +169,6 @@ module.exports = {
       "css": "users",
       "code": 128101,
       "uid": "31972e4e9d080eaa796290349ae6c1fd",
-      "search": [
-        "users",
-        "contacts",
-        "friends"
-      ],
       "charRef": 61489,
       "fontname": "fontawesome",
       "svg": {
@@ -243,9 +180,6 @@ module.exports = {
       "css": "male",
       "code": 61827,
       "uid": "ca2d64f8a3ea7cbf6af45898b2dcf35e",
-      "search": [
-        "male"
-      ],
       "charRef": 61490,
       "fontname": "fontawesome",
       "svg": {
@@ -257,9 +191,6 @@ module.exports = {
       "css": "female",
       "code": 61826,
       "uid": "9bf7e14698cccdca37a6f1a02cf7d79e",
-      "search": [
-        "female"
-      ],
       "charRef": 61491,
       "fontname": "fontawesome",
       "svg": {
@@ -271,10 +202,6 @@ module.exports = {
       "css": "child",
       "code": 61870,
       "uid": "c2314ed1d2314b89f9285c53bcbf2548",
-      "search": [
-        "child",
-        "people"
-      ],
       "charRef": 61492,
       "fontname": "fontawesome",
       "svg": {
@@ -286,11 +213,6 @@ module.exports = {
       "css": "user-secret",
       "code": 61979,
       "uid": "f9c8ea86275ca16128235c6452b67b8e",
-      "search": [
-        "secret",
-        "private",
-        "user"
-      ],
       "charRef": 61493,
       "fontname": "fontawesome",
       "svg": {
@@ -302,11 +224,6 @@ module.exports = {
       "css": "video",
       "code": 127916,
       "uid": "872d9516df93eb6b776cc4d94bd97dac",
-      "search": [
-        "movie",
-        "video",
-        "film"
-      ],
       "charRef": 61494,
       "fontname": "fontawesome",
       "svg": {
@@ -318,12 +235,6 @@ module.exports = {
       "css": "videocam",
       "code": 127909,
       "uid": "0f99ab40ab0b4d64a74f2d0deeb03e42",
-      "search": [
-        "facetime",
-        "movie",
-        "video",
-        "film"
-      ],
       "charRef": 61495,
       "fontname": "fontawesome",
       "svg": {
@@ -335,11 +246,6 @@ module.exports = {
       "css": "picture",
       "code": 127748,
       "uid": "381da2c2f7fd51f8de877c044d7f439d",
-      "search": [
-        "image",
-        "picture",
-        "photo"
-      ],
       "charRef": 61496,
       "fontname": "fontawesome",
       "svg": {
@@ -351,10 +257,6 @@ module.exports = {
       "css": "camera",
       "code": 128247,
       "uid": "dc3f1d5b1d006f7f7b3b6295eccab9da",
-      "search": [
-        "camera",
-        "photo"
-      ],
       "charRef": 61497,
       "fontname": "fontawesome",
       "svg": {
@@ -366,10 +268,6 @@ module.exports = {
       "css": "camera-alt",
       "code": 59151,
       "uid": "9d3d9d6ce1ec63eaa26281e6162853c9",
-      "search": [
-        "camera",
-        "photo"
-      ],
       "charRef": 61498,
       "fontname": "fontawesome",
       "svg": {
@@ -381,11 +279,6 @@ module.exports = {
       "css": "th-large",
       "code": 59144,
       "uid": "dd492243d64e21dfe16a92452f7861cb",
-      "search": [
-        "image",
-        "list",
-        "thumbnails"
-      ],
       "charRef": 61499,
       "fontname": "fontawesome",
       "svg": {
@@ -397,11 +290,6 @@ module.exports = {
       "css": "th",
       "code": 9871,
       "uid": "b1887b423d2fd15c345e090320c91ca0",
-      "search": [
-        "image",
-        "list",
-        "thumbnails"
-      ],
       "charRef": 61500,
       "fontname": "fontawesome",
       "svg": {
@@ -413,9 +301,6 @@ module.exports = {
       "css": "th-list",
       "code": 9776,
       "uid": "f805bb95d40c7ef2bc51b3d50d4f2e5c",
-      "search": [
-        "list"
-      ],
       "charRef": 61501,
       "fontname": "fontawesome",
       "svg": {
@@ -427,12 +312,6 @@ module.exports = {
       "css": "ok",
       "code": 10003,
       "uid": "12f4ece88e46abd864e40b35e05b11cd",
-      "search": [
-        "ok",
-        "yes",
-        "check",
-        "mark"
-      ],
       "charRef": 61502,
       "fontname": "fontawesome",
       "svg": {
@@ -444,12 +323,6 @@ module.exports = {
       "css": "ok-circled",
       "code": 10004,
       "uid": "43ab845088317bd348dee1d975700c48",
-      "search": [
-        "ok",
-        "yes",
-        "check",
-        "mark"
-      ],
       "charRef": 61503,
       "fontname": "fontawesome",
       "svg": {
@@ -461,12 +334,6 @@ module.exports = {
       "css": "ok-circled2",
       "code": 59138,
       "uid": "ad33e708f4d2e25c5056c931da1528d6",
-      "search": [
-        "ok",
-        "yes",
-        "check",
-        "mark"
-      ],
       "charRef": 61504,
       "fontname": "fontawesome",
       "svg": {
@@ -478,10 +345,6 @@ module.exports = {
       "css": "ok-squared",
       "code": 61770,
       "uid": "1400d5103edd2fa6d2d61688fee79a5a",
-      "search": [
-        "ok",
-        "check"
-      ],
       "charRef": 61505,
       "fontname": "fontawesome",
       "svg": {
@@ -493,11 +356,6 @@ module.exports = {
       "css": "cancel",
       "code": 10005,
       "uid": "5211af474d3a9848f67f945e2ccaf143",
-      "search": [
-        "close",
-        "cancel",
-        "reject"
-      ],
       "charRef": 61506,
       "fontname": "fontawesome",
       "svg": {
@@ -509,11 +367,6 @@ module.exports = {
       "css": "cancel-circled",
       "code": 10006,
       "uid": "0f4cae16f34ae243a6144c18a003f2d8",
-      "search": [
-        "close",
-        "cancel",
-        "reject"
-      ],
       "charRef": 61507,
       "fontname": "fontawesome",
       "svg": {
@@ -525,11 +378,6 @@ module.exports = {
       "css": "cancel-circled2",
       "code": 59139,
       "uid": "2e2dba0307a502a8507c1729084c7ab5",
-      "search": [
-        "close",
-        "cancel",
-        "reject"
-      ],
       "charRef": 61508,
       "fontname": "fontawesome",
       "svg": {
@@ -541,9 +389,6 @@ module.exports = {
       "css": "plus",
       "code": 43,
       "uid": "44e04715aecbca7f266a17d5a7863c68",
-      "search": [
-        "plus"
-      ],
       "charRef": 61509,
       "fontname": "fontawesome",
       "svg": {
@@ -555,9 +400,6 @@ module.exports = {
       "css": "plus-circled",
       "code": 10133,
       "uid": "4ba33d2607902cf690dd45df09774cb0",
-      "search": [
-        "plus"
-      ],
       "charRef": 61510,
       "fontname": "fontawesome",
       "svg": {
@@ -569,9 +411,6 @@ module.exports = {
       "css": "plus-squared",
       "code": 61694,
       "uid": "1a5cfa186647e8c929c2b17b9fc4dac1",
-      "search": [
-        "plus"
-      ],
       "charRef": 61511,
       "fontname": "fontawesome",
       "svg": {
@@ -583,9 +422,6 @@ module.exports = {
       "css": "plus-squared-alt",
       "code": 61846,
       "uid": "2d3be3e856fc1e4ac067590d2ded1b07",
-      "search": [
-        "plus"
-      ],
       "charRef": 61512,
       "fontname": "fontawesome",
       "svg": {
@@ -597,9 +433,6 @@ module.exports = {
       "css": "minus",
       "code": 45,
       "uid": "861ab06e455e2de3232ebef67d60d708",
-      "search": [
-        "minus"
-      ],
       "charRef": 61513,
       "fontname": "fontawesome",
       "svg": {
@@ -611,9 +444,6 @@ module.exports = {
       "css": "minus-circled",
       "code": 10134,
       "uid": "eeadb020bb75d089b25d8424aabe19e0",
-      "search": [
-        "minus"
-      ],
       "charRef": 61514,
       "fontname": "fontawesome",
       "svg": {
@@ -625,9 +455,6 @@ module.exports = {
       "css": "minus-squared",
       "code": 61766,
       "uid": "f755a58fb985eeb70bd47d9b31892a34",
-      "search": [
-        "minus"
-      ],
       "charRef": 61515,
       "fontname": "fontawesome",
       "svg": {
@@ -639,9 +466,6 @@ module.exports = {
       "css": "minus-squared-alt",
       "code": 61767,
       "uid": "18ef25350258541e8e54148ed79845c0",
-      "search": [
-        "minus"
-      ],
       "charRef": 61516,
       "fontname": "fontawesome",
       "svg": {
@@ -653,9 +477,6 @@ module.exports = {
       "css": "help",
       "code": 61736,
       "uid": "ce3cf091d6ebd004dd0b52d24074e6e3",
-      "search": [
-        "help"
-      ],
       "charRef": 61517,
       "fontname": "fontawesome",
       "svg": {
@@ -667,10 +488,6 @@ module.exports = {
       "css": "help-circled",
       "code": 59140,
       "uid": "17ebadd1e3f274ff0205601eef7b9cc4",
-      "search": [
-        "help",
-        "question"
-      ],
       "charRef": 61518,
       "fontname": "fontawesome",
       "svg": {
@@ -682,9 +499,6 @@ module.exports = {
       "css": "info-circled",
       "code": 59141,
       "uid": "e82cedfa1d5f15b00c5a81c9bd731ea2",
-      "search": [
-        "info"
-      ],
       "charRef": 61519,
       "fontname": "fontawesome",
       "svg": {
@@ -696,9 +510,6 @@ module.exports = {
       "css": "info",
       "code": 61737,
       "uid": "3d4ea8a78dc34efe891f3a0f3d961274",
-      "search": [
-        "info"
-      ],
       "charRef": 61520,
       "fontname": "fontawesome",
       "svg": {
@@ -710,9 +521,6 @@ module.exports = {
       "css": "home",
       "code": 8962,
       "uid": "d7271d490b71df4311e32cdacae8b331",
-      "search": [
-        "home"
-      ],
       "charRef": 61521,
       "fontname": "fontawesome",
       "svg": {
@@ -724,9 +532,6 @@ module.exports = {
       "css": "link",
       "code": 128279,
       "uid": "0ddd3e8201ccc7d41f7b7c9d27eca6c1",
-      "search": [
-        "link"
-      ],
       "charRef": 61522,
       "fontname": "fontawesome",
       "svg": {
@@ -738,9 +543,6 @@ module.exports = {
       "css": "unlink",
       "code": 61735,
       "uid": "1dcd2b2148b7f086a4eb47f6a746bdee",
-      "search": [
-        "unlink"
-      ],
       "charRef": 61523,
       "fontname": "fontawesome",
       "svg": {
@@ -752,11 +554,6 @@ module.exports = {
       "css": "link-ext",
       "code": 61582,
       "uid": "e15f0d620a7897e2035c18c80142f6d9",
-      "search": [
-        "link",
-        "url",
-        "external"
-      ],
       "charRef": 61524,
       "fontname": "fontawesome",
       "svg": {
@@ -768,11 +565,6 @@ module.exports = {
       "css": "link-ext-alt",
       "code": 61772,
       "uid": "e35de5ea31cd56970498e33efbcb8e36",
-      "search": [
-        "link",
-        "url",
-        "external"
-      ],
       "charRef": 61525,
       "fontname": "fontawesome",
       "svg": {
@@ -784,10 +576,6 @@ module.exports = {
       "css": "attach",
       "code": 128206,
       "uid": "0d6ab6194c0eddda2b8c9cedf2ab248e",
-      "search": [
-        "attach",
-        "clip"
-      ],
       "charRef": 61526,
       "fontname": "fontawesome",
       "svg": {
@@ -799,9 +587,6 @@ module.exports = {
       "css": "lock",
       "code": 128274,
       "uid": "c1f1975c885aa9f3dad7810c53b82074",
-      "search": [
-        "lock"
-      ],
       "charRef": 61527,
       "fontname": "fontawesome",
       "svg": {
@@ -813,11 +598,6 @@ module.exports = {
       "css": "lock-open",
       "code": 128275,
       "uid": "657ab647f6248a6b57a5b893beaf35a9",
-      "search": [
-        "lock",
-        "open",
-        "unlock"
-      ],
       "charRef": 61528,
       "fontname": "fontawesome",
       "svg": {
@@ -829,11 +609,6 @@ module.exports = {
       "css": "lock-open-alt",
       "code": 61758,
       "uid": "05376be04a27d5a46e855a233d6e8508",
-      "search": [
-        "lock",
-        "unlock",
-        "open"
-      ],
       "charRef": 61529,
       "fontname": "fontawesome",
       "svg": {
@@ -845,10 +620,6 @@ module.exports = {
       "css": "pin",
       "code": 128204,
       "uid": "5b0772e9484a1a11646793a82edd622a",
-      "search": [
-        "pin",
-        "pushpin"
-      ],
       "charRef": 61530,
       "fontname": "fontawesome",
       "svg": {
@@ -860,10 +631,6 @@ module.exports = {
       "css": "eye",
       "code": 59146,
       "uid": "c5fd349cbd3d23e4ade333789c29c729",
-      "search": [
-        "eye",
-        "subscribe"
-      ],
       "charRef": 61531,
       "fontname": "fontawesome",
       "svg": {
@@ -875,10 +642,6 @@ module.exports = {
       "css": "eye-off",
       "code": 59147,
       "uid": "7fd683b2c518ceb9e5fa6757f2276faa",
-      "search": [
-        "eye",
-        "unsubscribe"
-      ],
       "charRef": 61532,
       "fontname": "fontawesome",
       "svg": {
@@ -890,12 +653,6 @@ module.exports = {
       "css": "tag",
       "code": 59148,
       "uid": "3db5347bd219f3bce6025780f5d9ef45",
-      "search": [
-        "tag",
-        "category",
-        "price",
-        "offer"
-      ],
       "charRef": 61533,
       "fontname": "fontawesome",
       "svg": {
@@ -907,12 +664,6 @@ module.exports = {
       "css": "tags",
       "code": 59149,
       "uid": "a3f89e106175a5c5c4e9738870b12e55",
-      "search": [
-        "tag",
-        "category",
-        "price",
-        "offer"
-      ],
       "charRef": 61534,
       "fontname": "fontawesome",
       "svg": {
@@ -924,9 +675,6 @@ module.exports = {
       "css": "bookmark",
       "code": 128278,
       "uid": "f04a5d24e9e659145b966739c4fde82a",
-      "search": [
-        "bookmark"
-      ],
       "charRef": 61535,
       "fontname": "fontawesome",
       "svg": {
@@ -938,9 +686,6 @@ module.exports = {
       "css": "bookmark-empty",
       "code": 61591,
       "uid": "2f5ef6f6b7aaebc56458ab4e865beff5",
-      "search": [
-        "bookmark"
-      ],
       "charRef": 61536,
       "fontname": "fontawesome",
       "svg": {
@@ -952,9 +697,6 @@ module.exports = {
       "css": "flag",
       "code": 9873,
       "uid": "57a0ac800df728aad61a7cf9e12f5fef",
-      "search": [
-        "flag"
-      ],
       "charRef": 61537,
       "fontname": "fontawesome",
       "svg": {
@@ -966,9 +708,6 @@ module.exports = {
       "css": "flag-empty",
       "code": 61725,
       "uid": "6c83092421441296f5c4e8074b0cf32c",
-      "search": [
-        "flag"
-      ],
       "charRef": 61538,
       "fontname": "fontawesome",
       "svg": {
@@ -980,9 +719,6 @@ module.exports = {
       "css": "flag-checkered",
       "code": 61726,
       "uid": "d7a614bd701f6712e8e3b2be124899e1",
-      "search": [
-        "flag"
-      ],
       "charRef": 61539,
       "fontname": "fontawesome",
       "svg": {
@@ -994,13 +730,6 @@ module.exports = {
       "css": "thumbs-up",
       "code": 128077,
       "uid": "acf41aa4018e58d49525665469e35665",
-      "search": [
-        "thumbs",
-        "vote",
-        "up",
-        "like",
-        "love"
-      ],
       "charRef": 61540,
       "fontname": "fontawesome",
       "svg": {
@@ -1012,13 +741,6 @@ module.exports = {
       "css": "thumbs-down",
       "code": 128078,
       "uid": "7533e68038fc6d520ede7a7ffa0a2f64",
-      "search": [
-        "thumbs",
-        "vote",
-        "down",
-        "unlike",
-        "dislike"
-      ],
       "charRef": 61541,
       "fontname": "fontawesome",
       "svg": {
@@ -1030,13 +752,6 @@ module.exports = {
       "css": "thumbs-up-alt",
       "code": 61796,
       "uid": "5e2ab018e3044337bcef5f7e94098ea1",
-      "search": [
-        "thumbs",
-        "vote",
-        "up",
-        "like",
-        "love"
-      ],
       "charRef": 61542,
       "fontname": "fontawesome",
       "svg": {
@@ -1048,13 +763,6 @@ module.exports = {
       "css": "thumbs-down-alt",
       "code": 61797,
       "uid": "ddcd918b502642705838815d40aea9e3",
-      "search": [
-        "thumbs",
-        "vote",
-        "down",
-        "dislike",
-        "unlike"
-      ],
       "charRef": 61543,
       "fontname": "fontawesome",
       "svg": {
@@ -1066,9 +774,6 @@ module.exports = {
       "css": "download",
       "code": 128229,
       "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
-      "search": [
-        "download"
-      ],
       "charRef": 61544,
       "fontname": "fontawesome",
       "svg": {
@@ -1080,9 +785,6 @@ module.exports = {
       "css": "upload",
       "code": 128228,
       "uid": "eeec3208c90b7b48e804919d0d2d4a41",
-      "search": [
-        "upload"
-      ],
       "charRef": 61545,
       "fontname": "fontawesome",
       "svg": {
@@ -1094,10 +796,6 @@ module.exports = {
       "css": "download-cloud",
       "code": 61677,
       "uid": "f5999a012fc3752386635ec02a858447",
-      "search": [
-        "download",
-        "cloud"
-      ],
       "charRef": 61546,
       "fontname": "fontawesome",
       "svg": {
@@ -1109,10 +807,6 @@ module.exports = {
       "css": "upload-cloud",
       "code": 61678,
       "uid": "de2fc7a5c986ab8c622f63455d7cf814",
-      "search": [
-        "upload",
-        "cloud"
-      ],
       "charRef": 61547,
       "fontname": "fontawesome",
       "svg": {
@@ -1124,9 +818,6 @@ module.exports = {
       "css": "reply",
       "code": 61714,
       "uid": "c6be5a58ee4e63a5ec399c2b0d15cf2c",
-      "search": [
-        "reply"
-      ],
       "charRef": 61548,
       "fontname": "fontawesome",
       "svg": {
@@ -1138,9 +829,6 @@ module.exports = {
       "css": "reply-all",
       "code": 61730,
       "uid": "1b5597a3bacaeca6600e88ae36d02e0a",
-      "search": [
-        "reply"
-      ],
       "charRef": 61549,
       "fontname": "fontawesome",
       "svg": {
@@ -1152,9 +840,6 @@ module.exports = {
       "css": "forward",
       "code": 10150,
       "uid": "3d39c828009c04ddb6764c0b04cd2439",
-      "search": [
-        "forward"
-      ],
       "charRef": 61550,
       "fontname": "fontawesome",
       "svg": {
@@ -1166,9 +851,6 @@ module.exports = {
       "css": "quote-left",
       "code": 61709,
       "uid": "ab95e1351ebaec5850101097cbf7097f",
-      "search": [
-        "quote"
-      ],
       "charRef": 61551,
       "fontname": "fontawesome",
       "svg": {
@@ -1180,9 +862,6 @@ module.exports = {
       "css": "quote-right",
       "code": 61710,
       "uid": "d745d7c05b94e609decabade2cae12cb",
-      "search": [
-        "quote"
-      ],
       "charRef": 61552,
       "fontname": "fontawesome",
       "svg": {
@@ -1194,9 +873,6 @@ module.exports = {
       "css": "code",
       "code": 61729,
       "uid": "7034e4d22866af82bef811f52fb1ba46",
-      "search": [
-        "code"
-      ],
       "charRef": 61553,
       "fontname": "fontawesome",
       "svg": {
@@ -1208,10 +884,6 @@ module.exports = {
       "css": "export",
       "code": 59157,
       "uid": "895405dfac8a3b7b2f23b183c6608ee6",
-      "search": [
-        "export",
-        "share"
-      ],
       "charRef": 61554,
       "fontname": "fontawesome",
       "svg": {
@@ -1223,10 +895,6 @@ module.exports = {
       "css": "export-alt",
       "code": 61773,
       "uid": "13b9eebfea581ad8e756ee7a18a7cba8",
-      "search": [
-        "export",
-        "share"
-      ],
       "charRef": 61555,
       "fontname": "fontawesome",
       "svg": {
@@ -1238,9 +906,6 @@ module.exports = {
       "css": "share",
       "code": 61920,
       "uid": "4aad6bb50b02c18508aae9cbe14e784e",
-      "search": [
-        "share"
-      ],
       "charRef": 61556,
       "fontname": "fontawesome",
       "svg": {
@@ -1252,9 +917,6 @@ module.exports = {
       "css": "share-squared",
       "code": 61921,
       "uid": "4c1f3c0b331d5f72c6a38d7bb7632675",
-      "search": [
-        "share"
-      ],
       "charRef": 61557,
       "fontname": "fontawesome",
       "svg": {
@@ -1266,12 +928,6 @@ module.exports = {
       "css": "pencil",
       "code": 9998,
       "uid": "d35a1d35efeb784d1dc9ac18b9b6c2b6",
-      "search": [
-        "pencil",
-        "write",
-        "reply",
-        "edit"
-      ],
       "charRef": 61558,
       "fontname": "fontawesome",
       "svg": {
@@ -1283,10 +939,6 @@ module.exports = {
       "css": "pencil-squared",
       "code": 61771,
       "uid": "44fae3bfdd54754dc68ec50d37efea37",
-      "search": [
-        "pencil",
-        "edit"
-      ],
       "charRef": 61559,
       "fontname": "fontawesome",
       "svg": {
@@ -1298,12 +950,6 @@ module.exports = {
       "css": "edit",
       "code": 9997,
       "uid": "41087bc74d4b20b55059c60a33bf4008",
-      "search": [
-        "pencil",
-        "write",
-        "reply",
-        "edit"
-      ],
       "charRef": 61560,
       "fontname": "fontawesome",
       "svg": {
@@ -1315,9 +961,6 @@ module.exports = {
       "css": "print",
       "code": 59158,
       "uid": "7277ded7695b2a307a5f9d50097bb64c",
-      "search": [
-        "print"
-      ],
       "charRef": 61561,
       "fontname": "fontawesome",
       "svg": {
@@ -1329,10 +972,6 @@ module.exports = {
       "css": "retweet",
       "code": 59159,
       "uid": "09feb4465d9bd1364f4e301c9ddbaa92",
-      "search": [
-        "retweet",
-        "twitter"
-      ],
       "charRef": 61562,
       "fontname": "fontawesome",
       "svg": {
@@ -1344,9 +983,6 @@ module.exports = {
       "css": "keyboard",
       "code": 61724,
       "uid": "ecb97add13804c190456025e43ec003b",
-      "search": [
-        "keyboard"
-      ],
       "charRef": 61563,
       "fontname": "fontawesome",
       "svg": {
@@ -1358,9 +994,6 @@ module.exports = {
       "css": "gamepad",
       "code": 61723,
       "uid": "0133387f2069a1b3168942b84d81dd3a",
-      "search": [
-        "gamepad"
-      ],
       "charRef": 61564,
       "fontname": "fontawesome",
       "svg": {
@@ -1372,11 +1005,6 @@ module.exports = {
       "css": "comment",
       "code": 59160,
       "uid": "85528017f1e6053b2253785c31047f44",
-      "search": [
-        "comment",
-        "reply",
-        "write"
-      ],
       "charRef": 61565,
       "fontname": "fontawesome",
       "svg": {
@@ -1388,10 +1016,6 @@ module.exports = {
       "css": "chat",
       "code": 59168,
       "uid": "dcedf50ab1ede3283d7a6c70e2fe32f3",
-      "search": [
-        "chat",
-        "talk"
-      ],
       "charRef": 61566,
       "fontname": "fontawesome",
       "svg": {
@@ -1403,11 +1027,6 @@ module.exports = {
       "css": "comment-empty",
       "code": 61669,
       "uid": "9c1376672bb4f1ed616fdd78a23667e9",
-      "search": [
-        "comment",
-        "reply",
-        "write"
-      ],
       "charRef": 61567,
       "fontname": "fontawesome",
       "svg": {
@@ -1419,10 +1038,6 @@ module.exports = {
       "css": "chat-empty",
       "code": 61670,
       "uid": "31951fbb9820ed0690f675b3d495c8da",
-      "search": [
-        "chat",
-        "talk"
-      ],
       "charRef": 61568,
       "fontname": "fontawesome",
       "svg": {
@@ -1434,11 +1049,6 @@ module.exports = {
       "css": "bell",
       "code": 128276,
       "uid": "cd21cbfb28ad4d903cede582157f65dc",
-      "search": [
-        "alert",
-        "bell",
-        "jingle"
-      ],
       "charRef": 61569,
       "fontname": "fontawesome",
       "svg": {
@@ -1450,11 +1060,6 @@ module.exports = {
       "css": "bell-alt",
       "code": 61683,
       "uid": "671f29fa10dda08074a4c6a341bb4f39",
-      "search": [
-        "alert",
-        "bell",
-        "jingle"
-      ],
       "charRef": 61570,
       "fontname": "fontawesome",
       "svg": {
@@ -1466,9 +1071,6 @@ module.exports = {
       "css": "bell-off",
       "code": 61942,
       "uid": "563683020e0bf9f22f3f055a69b5c57a",
-      "search": [
-        "bell"
-      ],
       "charRef": 61571,
       "fontname": "fontawesome",
       "svg": {
@@ -1480,9 +1082,6 @@ module.exports = {
       "css": "bell-off-empty",
       "code": 61943,
       "uid": "8a074400a056c59d389f2d0517281bd5",
-      "search": [
-        "bell"
-      ],
       "charRef": 61572,
       "fontname": "fontawesome",
       "svg": {
@@ -1494,11 +1093,6 @@ module.exports = {
       "css": "attention-alt",
       "code": 61738,
       "uid": "00391fac5d419345ffcccd95b6f76263",
-      "search": [
-        "attention",
-        "warning",
-        "alert"
-      ],
       "charRef": 61573,
       "fontname": "fontawesome",
       "svg": {
@@ -1510,11 +1104,6 @@ module.exports = {
       "css": "attention",
       "code": 9888,
       "uid": "c76b7947c957c9b78b11741173c8349b",
-      "search": [
-        "attention",
-        "warning",
-        "alert"
-      ],
       "charRef": 61574,
       "fontname": "fontawesome",
       "svg": {
@@ -1526,11 +1115,6 @@ module.exports = {
       "css": "attention-circled",
       "code": 10071,
       "uid": "b035c28eba2b35c6ffe92aee8b0df507",
-      "search": [
-        "attention",
-        "warning",
-        "alert"
-      ],
       "charRef": 61575,
       "fontname": "fontawesome",
       "svg": {
@@ -1542,11 +1126,6 @@ module.exports = {
       "css": "location",
       "code": 59172,
       "uid": "0d08dbb1dd648a43bdea81b7e6c9e036",
-      "search": [
-        "location",
-        "mark",
-        "marker"
-      ],
       "charRef": 61576,
       "fontname": "fontawesome",
       "svg": {
@@ -1558,10 +1137,6 @@ module.exports = {
       "css": "direction",
       "code": 61732,
       "uid": "921e3974e54ff9e8b7cd906a3dc74636",
-      "search": [
-        "direction",
-        "location"
-      ],
       "charRef": 61577,
       "fontname": "fontawesome",
       "svg": {
@@ -1573,9 +1148,6 @@ module.exports = {
       "css": "compass",
       "code": 61774,
       "uid": "e5d624264734620fa9f98d59e6dc941f",
-      "search": [
-        "compass"
-      ],
       "charRef": 61578,
       "fontname": "fontawesome",
       "svg": {
@@ -1587,9 +1159,6 @@ module.exports = {
       "css": "trash",
       "code": 61944,
       "uid": "bbfb51903f40597f0b70fd75bc7b5cac",
-      "search": [
-        "trash"
-      ],
       "charRef": 61579,
       "fontname": "fontawesome",
       "svg": {
@@ -1601,10 +1170,6 @@ module.exports = {
       "css": "trash-empty",
       "code": 59177,
       "uid": "f48ae54adfb27d8ada53d0fd9e34ee10",
-      "search": [
-        "trash",
-        "delete"
-      ],
       "charRef": 61580,
       "fontname": "fontawesome",
       "svg": {
@@ -1616,11 +1181,6 @@ module.exports = {
       "css": "doc",
       "code": 128196,
       "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
-      "search": [
-        "doc",
-        "file",
-        "article"
-      ],
       "charRef": 61581,
       "fontname": "fontawesome",
       "svg": {
@@ -1632,11 +1192,6 @@ module.exports = {
       "css": "docs",
       "code": 61637,
       "uid": "c8585e1e5b0467f28b70bce765d5840c",
-      "search": [
-        "doc",
-        "file",
-        "article"
-      ],
       "charRef": 61582,
       "fontname": "fontawesome",
       "svg": {
@@ -1648,11 +1203,6 @@ module.exports = {
       "css": "doc-text",
       "code": 61686,
       "uid": "5408be43f7c42bccee419c6be53fdef5",
-      "search": [
-        "doc",
-        "file",
-        "article"
-      ],
       "charRef": 61583,
       "fontname": "fontawesome",
       "svg": {
@@ -1664,11 +1214,6 @@ module.exports = {
       "css": "doc-inv",
       "code": 61787,
       "uid": "178053298e3e5b03551d754d4b9acd8b",
-      "search": [
-        "doc",
-        "file",
-        "article"
-      ],
       "charRef": 61584,
       "fontname": "fontawesome",
       "svg": {
@@ -1680,11 +1225,6 @@ module.exports = {
       "css": "doc-text-inv",
       "code": 61788,
       "uid": "c08a1cde48d96cba21d8c05fa7d7feb1",
-      "search": [
-        "doc",
-        "file",
-        "article"
-      ],
       "charRef": 61585,
       "fontname": "fontawesome",
       "svg": {
@@ -1696,10 +1236,6 @@ module.exports = {
       "css": "file-pdf",
       "code": 61889,
       "uid": "9daa1fdf0838118518a7e22715e83abc",
-      "search": [
-        "file",
-        "pdf"
-      ],
       "charRef": 61586,
       "fontname": "fontawesome",
       "svg": {
@@ -1711,10 +1247,6 @@ module.exports = {
       "css": "file-word",
       "code": 61890,
       "uid": "310ffd629da85142bc8669f010556f2d",
-      "search": [
-        "file",
-        "word"
-      ],
       "charRef": 61587,
       "fontname": "fontawesome",
       "svg": {
@@ -1726,10 +1258,6 @@ module.exports = {
       "css": "file-excel",
       "code": 61891,
       "uid": "f761c3bbe16ba2d332914ecb28e7a042",
-      "search": [
-        "file",
-        "excel"
-      ],
       "charRef": 61588,
       "fontname": "fontawesome",
       "svg": {
@@ -1741,10 +1269,6 @@ module.exports = {
       "css": "file-powerpoint",
       "code": 61892,
       "uid": "edcd4022de8d8df266ef7c42d2658ca5",
-      "search": [
-        "file",
-        "powerpoint"
-      ],
       "charRef": 61589,
       "fontname": "fontawesome",
       "svg": {
@@ -1756,11 +1280,6 @@ module.exports = {
       "css": "file-image",
       "code": 61893,
       "uid": "3c961c1a8d874815856fc6637dc5a13c",
-      "search": [
-        "file",
-        "image",
-        "picture"
-      ],
       "charRef": 61590,
       "fontname": "fontawesome",
       "svg": {
@@ -1772,10 +1291,6 @@ module.exports = {
       "css": "file-archive",
       "code": 61894,
       "uid": "e80ae555c1413a4ec18b33fb348b4049",
-      "search": [
-        "file",
-        "archive"
-      ],
       "charRef": 61591,
       "fontname": "fontawesome",
       "svg": {
@@ -1787,11 +1302,6 @@ module.exports = {
       "css": "file-audio",
       "code": 61895,
       "uid": "81db033e704eb7c586a365559d7c0f36",
-      "search": [
-        "file",
-        "audio",
-        "sound"
-      ],
       "charRef": 61592,
       "fontname": "fontawesome",
       "svg": {
@@ -1803,11 +1313,6 @@ module.exports = {
       "css": "file-video",
       "code": 61896,
       "uid": "dd69d9aa589ea7bc0a82a3fe67039f4b",
-      "search": [
-        "file",
-        "video",
-        "movie"
-      ],
       "charRef": 61593,
       "fontname": "fontawesome",
       "svg": {
@@ -1819,10 +1324,6 @@ module.exports = {
       "css": "file-code",
       "code": 61897,
       "uid": "26613a2e6bc41593c54bead46f8c8ee3",
-      "search": [
-        "file",
-        "code"
-      ],
       "charRef": 61594,
       "fontname": "fontawesome",
       "svg": {
@@ -1834,9 +1335,6 @@ module.exports = {
       "css": "folder",
       "code": 128193,
       "uid": "f8aa663c489bcbd6e68ec8147dca841e",
-      "search": [
-        "folder"
-      ],
       "charRef": 61595,
       "fontname": "fontawesome",
       "svg": {
@@ -1848,9 +1346,6 @@ module.exports = {
       "css": "folder-open",
       "code": 128194,
       "uid": "c95735c17a10af81448c7fed98a04546",
-      "search": [
-        "folder"
-      ],
       "charRef": 61596,
       "fontname": "fontawesome",
       "svg": {
@@ -1862,9 +1357,6 @@ module.exports = {
       "css": "folder-empty",
       "code": 61716,
       "uid": "b091a8bd0fdade174951f17d936f51e4",
-      "search": [
-        "folder"
-      ],
       "charRef": 61597,
       "fontname": "fontawesome",
       "svg": {
@@ -1876,9 +1368,6 @@ module.exports = {
       "css": "folder-open-empty",
       "code": 61717,
       "uid": "6533bdc16ab201eb3f3b27ce989cab33",
-      "search": [
-        "folder"
-      ],
       "charRef": 61598,
       "fontname": "fontawesome",
       "svg": {
@@ -1890,9 +1379,6 @@ module.exports = {
       "css": "box",
       "code": 61831,
       "uid": "04ff8d6592fe548b332b27ed87ce397a",
-      "search": [
-        "box"
-      ],
       "charRef": 61599,
       "fontname": "fontawesome",
       "svg": {
@@ -1904,9 +1390,6 @@ module.exports = {
       "css": "rss",
       "code": 61598,
       "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
-      "search": [
-        "rss"
-      ],
       "charRef": 61600,
       "fontname": "fontawesome",
       "svg": {
@@ -1918,9 +1401,6 @@ module.exports = {
       "css": "rss-squared",
       "code": 61763,
       "uid": "de5f0a564ccf8816325330e292e11533",
-      "search": [
-        "rss"
-      ],
       "charRef": 61601,
       "fontname": "fontawesome",
       "svg": {
@@ -1932,11 +1412,6 @@ module.exports = {
       "css": "phone",
       "code": 128222,
       "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
-      "search": [
-        "phone",
-        "telephone",
-        "call"
-      ],
       "charRef": 61602,
       "fontname": "fontawesome",
       "svg": {
@@ -1948,9 +1423,6 @@ module.exports = {
       "css": "phone-squared",
       "code": 61592,
       "uid": "ec488dfd1f548948c09671ca5a60ec92",
-      "search": [
-        "phone"
-      ],
       "charRef": 61603,
       "fontname": "fontawesome",
       "svg": {
@@ -1962,9 +1434,6 @@ module.exports = {
       "css": "fax",
       "code": 61868,
       "uid": "5cbe092278ff71fc27c920298b0f3ca3",
-      "search": [
-        "fax"
-      ],
       "charRef": 61604,
       "fontname": "fontawesome",
       "svg": {
@@ -1976,9 +1445,6 @@ module.exports = {
       "css": "menu",
       "code": 61641,
       "uid": "559647a6f430b3aeadbecd67194451dd",
-      "search": [
-        "menu"
-      ],
       "charRef": 61605,
       "fontname": "fontawesome",
       "svg": {
@@ -1990,12 +1456,6 @@ module.exports = {
       "css": "cog",
       "code": 9881,
       "uid": "e99461abfef3923546da8d745372c995",
-      "search": [
-        "settings",
-        "cog",
-        "gear",
-        "params"
-      ],
       "charRef": 61606,
       "fontname": "fontawesome",
       "svg": {
@@ -2007,12 +1467,6 @@ module.exports = {
       "css": "cog-alt",
       "code": 9967,
       "uid": "98687378abd1faf8f6af97c254eb6cd6",
-      "search": [
-        "settings",
-        "cog",
-        "gear",
-        "params"
-      ],
       "charRef": 61607,
       "fontname": "fontawesome",
       "svg": {
@@ -2024,12 +1478,6 @@ module.exports = {
       "css": "wrench",
       "code": 128295,
       "uid": "5bb103cd29de77e0e06a52638527b575",
-      "search": [
-        "wrench",
-        "tools",
-        "settings",
-        "params"
-      ],
       "charRef": 61608,
       "fontname": "fontawesome",
       "svg": {
@@ -2041,11 +1489,6 @@ module.exports = {
       "css": "sliders",
       "code": 61918,
       "uid": "21b42d3c3e6be44c3cc3d73042faa216",
-      "search": [
-        "sliders",
-        "equalizer",
-        "settings"
-      ],
       "charRef": 61609,
       "fontname": "fontawesome",
       "svg": {
@@ -2057,11 +1500,6 @@ module.exports = {
       "css": "basket",
       "code": 59197,
       "uid": "9affc98d652b86628d650ee58dbf0357",
-      "search": [
-        "basket",
-        "shopping",
-        "cart"
-      ],
       "charRef": 61610,
       "fontname": "fontawesome",
       "svg": {
@@ -2073,10 +1511,6 @@ module.exports = {
       "css": "cart-plus",
       "code": 61975,
       "uid": "cddbeffea9d90c5db93d5d3e77b8893e",
-      "search": [
-        "cart",
-        "basket"
-      ],
       "charRef": 61611,
       "fontname": "fontawesome",
       "svg": {
@@ -2088,10 +1522,6 @@ module.exports = {
       "css": "cart-arrow-down",
       "code": 61976,
       "uid": "93c35534e6b079466c4676cdedcdb7c1",
-      "search": [
-        "cart",
-        "basket"
-      ],
       "charRef": 61612,
       "fontname": "fontawesome",
       "svg": {
@@ -2103,10 +1533,6 @@ module.exports = {
       "css": "calendar",
       "code": 128197,
       "uid": "531bc468eecbb8867d822f1c11f1e039",
-      "search": [
-        "calendar",
-        "date"
-      ],
       "charRef": 61613,
       "fontname": "fontawesome",
       "svg": {
@@ -2118,9 +1544,6 @@ module.exports = {
       "css": "calendar-empty",
       "code": 61747,
       "uid": "ead4c82d04d7758db0f076584893a8c1",
-      "search": [
-        "calendar"
-      ],
       "charRef": 61614,
       "fontname": "fontawesome",
       "svg": {
@@ -2132,11 +1555,6 @@ module.exports = {
       "css": "login",
       "code": 59200,
       "uid": "3a00327e61b997b58518bd43ed83c3df",
-      "search": [
-        "login",
-        "signin",
-        "enter"
-      ],
       "charRef": 61615,
       "fontname": "fontawesome",
       "svg": {
@@ -2148,11 +1566,6 @@ module.exports = {
       "css": "logout",
       "code": 59201,
       "uid": "0d20938846444af8deb1920dc85a29fb",
-      "search": [
-        "logout",
-        "signout",
-        "exit"
-      ],
       "charRef": 61616,
       "fontname": "fontawesome",
       "svg": {
@@ -2164,9 +1577,6 @@ module.exports = {
       "css": "mic",
       "code": 61744,
       "uid": "19c50c52858a81de58f9db488aba77bc",
-      "search": [
-        "mic"
-      ],
       "charRef": 61617,
       "fontname": "fontawesome",
       "svg": {
@@ -2178,10 +1588,6 @@ module.exports = {
       "css": "mute",
       "code": 61745,
       "uid": "43c629249e2cca7e73cd4ef410c9551f",
-      "search": [
-        "mic",
-        "mute"
-      ],
       "charRef": 61618,
       "fontname": "fontawesome",
       "svg": {
@@ -2193,11 +1599,6 @@ module.exports = {
       "css": "volume-off",
       "code": 128263,
       "uid": "e44601720c64e6bb6a2d5cba6b0c588c",
-      "search": [
-        "volume",
-        "sound",
-        "mute"
-      ],
       "charRef": 61619,
       "fontname": "fontawesome",
       "svg": {
@@ -2209,10 +1610,6 @@ module.exports = {
       "css": "volume-down",
       "code": 128265,
       "uid": "fee6e00f36e8ca8ef3e4a62caa213bf6",
-      "search": [
-        "volume",
-        "sound"
-      ],
       "charRef": 61620,
       "fontname": "fontawesome",
       "svg": {
@@ -2224,10 +1621,6 @@ module.exports = {
       "css": "volume-up",
       "code": 128266,
       "uid": "76857a03fbaa6857fe063b6c25aa98ed",
-      "search": [
-        "volume",
-        "sound"
-      ],
       "charRef": 61621,
       "fontname": "fontawesome",
       "svg": {
@@ -2239,11 +1632,6 @@ module.exports = {
       "css": "headphones",
       "code": 127911,
       "uid": "f27bba41a700af51a4dd23cf4edea61d",
-      "search": [
-        "sound",
-        "music",
-        "headphones"
-      ],
       "charRef": 61622,
       "fontname": "fontawesome",
       "svg": {
@@ -2255,10 +1643,6 @@ module.exports = {
       "css": "clock",
       "code": 128340,
       "uid": "598a5f2bcf3521d1615de8e1881ccd17",
-      "search": [
-        "clock",
-        "time"
-      ],
       "charRef": 61623,
       "fontname": "fontawesome",
       "svg": {
@@ -2270,11 +1654,6 @@ module.exports = {
       "css": "lightbulb",
       "code": 61675,
       "uid": "5278ef7773e948d56c4d442c8c8c98cf",
-      "search": [
-        "idea",
-        "lamp",
-        "light"
-      ],
       "charRef": 61624,
       "fontname": "fontawesome",
       "svg": {
@@ -2286,10 +1665,6 @@ module.exports = {
       "css": "block",
       "code": 128683,
       "uid": "98d9c83c1ee7c2c25af784b518c522c5",
-      "search": [
-        "block",
-        "deny"
-      ],
       "charRef": 61625,
       "fontname": "fontawesome",
       "svg": {
@@ -2301,10 +1676,6 @@ module.exports = {
       "css": "resize-full",
       "code": 59204,
       "uid": "e594fc6e5870b4ab7e49f52571d52577",
-      "search": [
-        "resize",
-        "fullscreen"
-      ],
       "charRef": 61626,
       "fontname": "fontawesome",
       "svg": {
@@ -2316,10 +1687,6 @@ module.exports = {
       "css": "resize-full-alt",
       "code": 61618,
       "uid": "b013f6403e5ab0326614e68d1850fd6b",
-      "search": [
-        "resize",
-        "fullscreen"
-      ],
       "charRef": 61627,
       "fontname": "fontawesome",
       "svg": {
@@ -2331,9 +1698,6 @@ module.exports = {
       "css": "resize-small",
       "code": 59206,
       "uid": "3c24ee33c9487bbf18796ca6dffa1905",
-      "search": [
-        "resize"
-      ],
       "charRef": 61628,
       "fontname": "fontawesome",
       "svg": {
@@ -2345,9 +1709,6 @@ module.exports = {
       "css": "resize-vertical",
       "code": 11020,
       "uid": "d3b3f17bc3eb7cd809a07bbd4d178bee",
-      "search": [
-        "resize"
-      ],
       "charRef": 61629,
       "fontname": "fontawesome",
       "svg": {
@@ -2359,9 +1720,6 @@ module.exports = {
       "css": "resize-horizontal",
       "code": 11021,
       "uid": "3c73d058e4589b65a8d959c0fc8f153d",
-      "search": [
-        "resize"
-      ],
       "charRef": 61630,
       "fontname": "fontawesome",
       "svg": {
@@ -2373,9 +1731,6 @@ module.exports = {
       "css": "move",
       "code": 61511,
       "uid": "6605ee6441bf499ffa3c63d3c7409471",
-      "search": [
-        "move"
-      ],
       "charRef": 61631,
       "fontname": "fontawesome",
       "svg": {
@@ -2387,11 +1742,6 @@ module.exports = {
       "css": "zoom-in",
       "code": 59216,
       "uid": "0b2b66e526028a6972d51a6f10281b4b",
-      "search": [
-        "zoom",
-        "scale",
-        "in"
-      ],
       "charRef": 61632,
       "fontname": "fontawesome",
       "svg": {
@@ -2403,11 +1753,6 @@ module.exports = {
       "css": "zoom-out",
       "code": 59217,
       "uid": "d25d10efa900f529ad1d275657cfd30e",
-      "search": [
-        "zoom",
-        "scale",
-        "out"
-      ],
       "charRef": 61633,
       "fontname": "fontawesome",
       "svg": {
@@ -2419,11 +1764,6 @@ module.exports = {
       "css": "down-circled2",
       "code": 59224,
       "uid": "c53068fe21c8410b0a098b4c52c3d37e",
-      "search": [
-        "arrow",
-        "down",
-        "download"
-      ],
       "charRef": 61634,
       "fontname": "fontawesome",
       "svg": {
@@ -2435,11 +1775,6 @@ module.exports = {
       "css": "up-circled2",
       "code": 59227,
       "uid": "128d63150a41800e0beff55235269542",
-      "search": [
-        "arrow",
-        "up",
-        "upload"
-      ],
       "charRef": 61635,
       "fontname": "fontawesome",
       "svg": {
@@ -2451,10 +1786,6 @@ module.exports = {
       "css": "left-circled2",
       "code": 61840,
       "uid": "a65ca48f3fe7d6e5c60edbd943f4fdb6",
-      "search": [
-        "arrow",
-        "left"
-      ],
       "charRef": 61636,
       "fontname": "fontawesome",
       "svg": {
@@ -2466,10 +1797,6 @@ module.exports = {
       "css": "right-circled2",
       "code": 61838,
       "uid": "d0673ef38e1c458a6de52aad2a2f800d",
-      "search": [
-        "arrow",
-        "right"
-      ],
       "charRef": 61637,
       "fontname": "fontawesome",
       "svg": {
@@ -2481,10 +1808,6 @@ module.exports = {
       "css": "down-dir",
       "code": 9662,
       "uid": "2d6150442079cbda7df64522dc24f482",
-      "search": [
-        "down",
-        "arrow"
-      ],
       "charRef": 61638,
       "fontname": "fontawesome",
       "svg": {
@@ -2496,10 +1819,6 @@ module.exports = {
       "css": "up-dir",
       "code": 9652,
       "uid": "80cd1022bd9ea151d554bec1fa05f2de",
-      "search": [
-        "up",
-        "arrow"
-      ],
       "charRef": 61639,
       "fontname": "fontawesome",
       "svg": {
@@ -2511,10 +1830,6 @@ module.exports = {
       "css": "left-dir",
       "code": 9666,
       "uid": "9dc654095085167524602c9acc0c5570",
-      "search": [
-        "left",
-        "arrow"
-      ],
       "charRef": 61640,
       "fontname": "fontawesome",
       "svg": {
@@ -2526,10 +1841,6 @@ module.exports = {
       "css": "right-dir",
       "code": 9656,
       "uid": "fb1c799ffe5bf8fb7f8bcb647c8fe9e6",
-      "search": [
-        "right",
-        "arrow"
-      ],
       "charRef": 61641,
       "fontname": "fontawesome",
       "svg": {
@@ -2541,10 +1852,6 @@ module.exports = {
       "css": "down-open",
       "code": 59228,
       "uid": "ccddff8e8670dcd130e3cb55fdfc2fd0",
-      "search": [
-        "arrow",
-        "down"
-      ],
       "charRef": 61642,
       "fontname": "fontawesome",
       "svg": {
@@ -2556,10 +1863,6 @@ module.exports = {
       "css": "left-open",
       "code": 59229,
       "uid": "d870630ff8f81e6de3958ecaeac532f2",
-      "search": [
-        "arrow",
-        "left"
-      ],
       "charRef": 61643,
       "fontname": "fontawesome",
       "svg": {
@@ -2571,10 +1874,6 @@ module.exports = {
       "css": "right-open",
       "code": 59230,
       "uid": "399ef63b1e23ab1b761dfbb5591fa4da",
-      "search": [
-        "arrow",
-        "right"
-      ],
       "charRef": 61644,
       "fontname": "fontawesome",
       "svg": {
@@ -2586,10 +1885,6 @@ module.exports = {
       "css": "up-open",
       "code": 59231,
       "uid": "fe6697b391355dec12f3d86d6d490397",
-      "search": [
-        "arrow",
-        "up"
-      ],
       "charRef": 61645,
       "fontname": "fontawesome",
       "svg": {
@@ -2613,10 +1908,6 @@ module.exports = {
       "css": "angle-right",
       "code": 61701,
       "uid": "7bf14281af5633a597f85b061ef1cfb9",
-      "search": [
-        "angle",
-        "right"
-      ],
       "charRef": 61647,
       "fontname": "fontawesome",
       "svg": {
@@ -2628,10 +1919,6 @@ module.exports = {
       "css": "angle-up",
       "code": 61702,
       "uid": "5de9370846a26947e03f63142a3f1c07",
-      "search": [
-        "angle",
-        "up"
-      ],
       "charRef": 61648,
       "fontname": "fontawesome",
       "svg": {
@@ -2643,10 +1930,6 @@ module.exports = {
       "css": "angle-down",
       "code": 61703,
       "uid": "e4dde1992f787163e2e2b534b8c8067d",
-      "search": [
-        "angle",
-        "down"
-      ],
       "charRef": 61649,
       "fontname": "fontawesome",
       "svg": {
@@ -2658,10 +1941,6 @@ module.exports = {
       "css": "angle-circled-left",
       "code": 61751,
       "uid": "8933c2579166c2ee56ae40dc6a0b4dc6",
-      "search": [
-        "angle",
-        "left"
-      ],
       "charRef": 61650,
       "fontname": "fontawesome",
       "svg": {
@@ -2673,10 +1952,6 @@ module.exports = {
       "css": "angle-circled-right",
       "code": 61752,
       "uid": "94089b37297572e936b0943bcfa041d3",
-      "search": [
-        "angle",
-        "right"
-      ],
       "charRef": 61651,
       "fontname": "fontawesome",
       "svg": {
@@ -2688,10 +1963,6 @@ module.exports = {
       "css": "angle-circled-up",
       "code": 61753,
       "uid": "8cbd5bcfb00043b8094fd7ac21ae5e06",
-      "search": [
-        "angle",
-        "up"
-      ],
       "charRef": 61652,
       "fontname": "fontawesome",
       "svg": {
@@ -2703,10 +1974,6 @@ module.exports = {
       "css": "angle-circled-down",
       "code": 61754,
       "uid": "c35e0796f6f806945a44b1655ce7bbe7",
-      "search": [
-        "angle",
-        "down"
-      ],
       "charRef": 61653,
       "fontname": "fontawesome",
       "svg": {
@@ -2718,10 +1985,6 @@ module.exports = {
       "css": "angle-double-left",
       "code": 61696,
       "uid": "745f12abe1472d14f8f658de7e5aba66",
-      "search": [
-        "angle",
-        "left"
-      ],
       "charRef": 61654,
       "fontname": "fontawesome",
       "svg": {
@@ -2733,10 +1996,6 @@ module.exports = {
       "css": "angle-double-right",
       "code": 61697,
       "uid": "fdfbd1fcbd4cb229716a810801a5f207",
-      "search": [
-        "angle",
-        "right"
-      ],
       "charRef": 61655,
       "fontname": "fontawesome",
       "svg": {
@@ -2748,10 +2007,6 @@ module.exports = {
       "css": "angle-double-up",
       "code": 61698,
       "uid": "63b3012c8cbe3654ba5bea598235aa3a",
-      "search": [
-        "angle",
-        "up"
-      ],
       "charRef": 61656,
       "fontname": "fontawesome",
       "svg": {
@@ -2763,10 +2018,6 @@ module.exports = {
       "css": "angle-double-down",
       "code": 61699,
       "uid": "dfec4ffa849d8594c2e4b86f6320b8a6",
-      "search": [
-        "angle",
-        "down"
-      ],
       "charRef": 61657,
       "fontname": "fontawesome",
       "svg": {
@@ -2778,10 +2029,6 @@ module.exports = {
       "css": "down",
       "code": 61813,
       "uid": "f06941dfcb90dc24b987d810898c4310",
-      "search": [
-        "arrow",
-        "down"
-      ],
       "charRef": 61658,
       "fontname": "fontawesome",
       "svg": {
@@ -2793,10 +2040,6 @@ module.exports = {
       "css": "left",
       "code": 61815,
       "uid": "f6d72aa5ef8e8f0e553012af9a29a87e",
-      "search": [
-        "arrow",
-        "left"
-      ],
       "charRef": 61659,
       "fontname": "fontawesome",
       "svg": {
@@ -2808,10 +2051,6 @@ module.exports = {
       "css": "right",
       "code": 61816,
       "uid": "fb94e23ae1e7660aa63cc5f351ec7560",
-      "search": [
-        "arrow",
-        "right"
-      ],
       "charRef": 61660,
       "fontname": "fontawesome",
       "svg": {
@@ -2823,10 +2062,6 @@ module.exports = {
       "css": "up",
       "code": 61814,
       "uid": "720f98e7580b7987c8dc542513d1d440",
-      "search": [
-        "arrow",
-        "up"
-      ],
       "charRef": 61661,
       "fontname": "fontawesome",
       "svg": {
@@ -2838,10 +2073,6 @@ module.exports = {
       "css": "down-big",
       "code": 8595,
       "uid": "1c4068ed75209e21af36017df8871802",
-      "search": [
-        "arrow",
-        "down"
-      ],
       "charRef": 61662,
       "fontname": "fontawesome",
       "svg": {
@@ -2853,10 +2084,6 @@ module.exports = {
       "css": "left-big",
       "code": 8592,
       "uid": "555ef8c86832e686fef85f7af2eb7cde",
-      "search": [
-        "arrow",
-        "left"
-      ],
       "charRef": 61663,
       "fontname": "fontawesome",
       "svg": {
@@ -2868,10 +2095,6 @@ module.exports = {
       "css": "right-big",
       "code": 8594,
       "uid": "ad6b3fbb5324abe71a9c0b6609cbb9f1",
-      "search": [
-        "arrow",
-        "right"
-      ],
       "charRef": 61664,
       "fontname": "fontawesome",
       "svg": {
@@ -2883,10 +2106,6 @@ module.exports = {
       "css": "up-big",
       "code": 8593,
       "uid": "95376bf082bfec6ce06ea1cda7bd7ead",
-      "search": [
-        "arrow",
-        "up"
-      ],
       "charRef": 61665,
       "fontname": "fontawesome",
       "svg": {
@@ -2898,11 +2117,6 @@ module.exports = {
       "css": "right-hand",
       "code": 9758,
       "uid": "aa0d9175a3919a260a4012d560e9f01e",
-      "search": [
-        "hand",
-        "right",
-        "arrow"
-      ],
       "charRef": 61666,
       "fontname": "fontawesome",
       "svg": {
@@ -2914,11 +2128,6 @@ module.exports = {
       "css": "left-hand",
       "code": 9756,
       "uid": "3d99d345645f43e31e9e0fd48be37e9c",
-      "search": [
-        "hand",
-        "left",
-        "arrow"
-      ],
       "charRef": 61667,
       "fontname": "fontawesome",
       "svg": {
@@ -2930,11 +2139,6 @@ module.exports = {
       "css": "up-hand",
       "code": 9757,
       "uid": "034e645aa3bad56ce68389a816547c87",
-      "search": [
-        "hand",
-        "up",
-        "arrow"
-      ],
       "charRef": 61668,
       "fontname": "fontawesome",
       "svg": {
@@ -2946,11 +2150,6 @@ module.exports = {
       "css": "down-hand",
       "code": 9759,
       "uid": "beb43b8df442eac4b8d35f528d5ed5af",
-      "search": [
-        "hand",
-        "down",
-        "arrow"
-      ],
       "charRef": 61669,
       "fontname": "fontawesome",
       "svg": {
@@ -2962,10 +2161,6 @@ module.exports = {
       "css": "left-circled",
       "code": 61608,
       "uid": "6855131631509e8795730ce062045ea1",
-      "search": [
-        "left",
-        "arrow"
-      ],
       "charRef": 61670,
       "fontname": "fontawesome",
       "svg": {
@@ -2977,10 +2172,6 @@ module.exports = {
       "css": "right-circled",
       "code": 61609,
       "uid": "19b04848ae7332d2c0ea2a9e19064037",
-      "search": [
-        "right",
-        "arrow"
-      ],
       "charRef": 61671,
       "fontname": "fontawesome",
       "svg": {
@@ -2992,10 +2183,6 @@ module.exports = {
       "css": "up-circled",
       "code": 61610,
       "uid": "2b8e9b027181aafd210bf29c5486d4a0",
-      "search": [
-        "up",
-        "arrow"
-      ],
       "charRef": 61672,
       "fontname": "fontawesome",
       "svg": {
@@ -3007,10 +2194,6 @@ module.exports = {
       "css": "down-circled",
       "code": 61611,
       "uid": "55ae6ea25cd707fe34af5b52b2001cdc",
-      "search": [
-        "down",
-        "arrow"
-      ],
       "charRef": 61673,
       "fontname": "fontawesome",
       "svg": {
@@ -3022,11 +2205,6 @@ module.exports = {
       "css": "cw",
       "code": 10227,
       "uid": "bc71f4c6e53394d5ba46b063040014f1",
-      "search": [
-        "reload",
-        "redo",
-        "repeat"
-      ],
       "charRef": 61674,
       "fontname": "fontawesome",
       "svg": {
@@ -3038,11 +2216,6 @@ module.exports = {
       "css": "ccw",
       "code": 10226,
       "uid": "f9c3205df26e7778abac86183aefdc99",
-      "search": [
-        "reload",
-        "undo",
-        "arrow"
-      ],
       "charRef": 61675,
       "fontname": "fontawesome",
       "svg": {
@@ -3054,12 +2227,6 @@ module.exports = {
       "css": "arrows-cw",
       "code": 59232,
       "uid": "a73c5deb486c8d66249811642e5d719a",
-      "search": [
-        "reload",
-        "refresh",
-        "update",
-        "sync"
-      ],
       "charRef": 61676,
       "fontname": "fontawesome",
       "svg": {
@@ -3071,11 +2238,6 @@ module.exports = {
       "css": "level-up",
       "code": 61768,
       "uid": "dea706a9bd3144316ce37406ec10f469",
-      "search": [
-        "arrow",
-        "level",
-        "up"
-      ],
       "charRef": 61677,
       "fontname": "fontawesome",
       "svg": {
@@ -3087,11 +2249,6 @@ module.exports = {
       "css": "level-down",
       "code": 61769,
       "uid": "4684e690bad65fb618329dfe52017475",
-      "search": [
-        "arrow",
-        "level",
-        "down"
-      ],
       "charRef": 61678,
       "fontname": "fontawesome",
       "svg": {
@@ -3103,9 +2260,6 @@ module.exports = {
       "css": "shuffle",
       "code": 128256,
       "uid": "37c5ab63f10d7ad0b84d0978dcd0c7a8",
-      "search": [
-        "shuffle"
-      ],
       "charRef": 61679,
       "fontname": "fontawesome",
       "svg": {
@@ -3117,12 +2271,6 @@ module.exports = {
       "css": "exchange",
       "code": 61676,
       "uid": "6020aff067fc3c119cdd75daa5249220",
-      "search": [
-        "exchange",
-        "swap",
-        "switch",
-        "arrows"
-      ],
       "charRef": 61680,
       "fontname": "fontawesome",
       "svg": {
@@ -3134,9 +2282,6 @@ module.exports = {
       "css": "history",
       "code": 61914,
       "uid": "d4816c0845aa43767213d45574b3b145",
-      "search": [
-        "history"
-      ],
       "charRef": 61681,
       "fontname": "fontawesome",
       "svg": {
@@ -3148,9 +2293,6 @@ module.exports = {
       "css": "expand",
       "code": 61776,
       "uid": "84bb9695b8662fa4783242f84c9e4682",
-      "search": [
-        "expand"
-      ],
       "charRef": 61682,
       "fontname": "fontawesome",
       "svg": {
@@ -3162,9 +2304,6 @@ module.exports = {
       "css": "collapse",
       "code": 61777,
       "uid": "7960517a504e42aea0641f15bc55fbed",
-      "search": [
-        "collapse"
-      ],
       "charRef": 61683,
       "fontname": "fontawesome",
       "svg": {
@@ -3176,9 +2315,6 @@ module.exports = {
       "css": "expand-right",
       "code": 61778,
       "uid": "ed5a38704f0329e610ee1c92bec3ad3d",
-      "search": [
-        "expand"
-      ],
       "charRef": 61684,
       "fontname": "fontawesome",
       "svg": {
@@ -3190,9 +2326,6 @@ module.exports = {
       "css": "collapse-left",
       "code": 61841,
       "uid": "ea2ec99fbce03864e593bbf4f302a79d",
-      "search": [
-        "collapse"
-      ],
       "charRef": 61685,
       "fontname": "fontawesome",
       "svg": {
@@ -3204,10 +2337,6 @@ module.exports = {
       "css": "play",
       "code": 9654,
       "uid": "ce06b5805120d0c2f8d60cd3f1a4fdb5",
-      "search": [
-        "play",
-        "player"
-      ],
       "charRef": 61686,
       "fontname": "fontawesome",
       "svg": {
@@ -3219,10 +2348,6 @@ module.exports = {
       "css": "play-circled",
       "code": 61764,
       "uid": "5717236f6134afe2d2a278a5c9b3927a",
-      "search": [
-        "player",
-        "play"
-      ],
       "charRef": 61687,
       "fontname": "fontawesome",
       "svg": {
@@ -3234,10 +2359,6 @@ module.exports = {
       "css": "play-circled2",
       "code": 59233,
       "uid": "e835d9d0f2ee39ae01b01cc6a6fa24ab",
-      "search": [
-        "play",
-        "player"
-      ],
       "charRef": 61688,
       "fontname": "fontawesome",
       "svg": {
@@ -3249,10 +2370,6 @@ module.exports = {
       "css": "stop",
       "code": 9642,
       "uid": "b624a1e512819d410ddbee84e6918b9d",
-      "search": [
-        "stop",
-        "player"
-      ],
       "charRef": 61689,
       "fontname": "fontawesome",
       "svg": {
@@ -3264,10 +2381,6 @@ module.exports = {
       "css": "pause",
       "code": 9097,
       "uid": "0b28050bac9d3facf2f0226db643ece0",
-      "search": [
-        "pause",
-        "player"
-      ],
       "charRef": 61690,
       "fontname": "fontawesome",
       "svg": {
@@ -3279,10 +2392,6 @@ module.exports = {
       "css": "to-end",
       "code": 9197,
       "uid": "c47efa0e3e74f6ba4c2562c1258fff1f",
-      "search": [
-        "right",
-        "player"
-      ],
       "charRef": 61691,
       "fontname": "fontawesome",
       "svg": {
@@ -3294,10 +2403,6 @@ module.exports = {
       "css": "to-end-alt",
       "code": 59234,
       "uid": "7ea35a8fc7e676c78e99cab2d4bc8653",
-      "search": [
-        "right",
-        "player"
-      ],
       "charRef": 61692,
       "fontname": "fontawesome",
       "svg": {
@@ -3309,10 +2414,6 @@ module.exports = {
       "css": "to-start",
       "code": 9198,
       "uid": "12052b30d23a1a70d6b32962d5464cae",
-      "search": [
-        "left",
-        "player"
-      ],
       "charRef": 61693,
       "fontname": "fontawesome",
       "svg": {
@@ -3324,10 +2425,6 @@ module.exports = {
       "css": "to-start-alt",
       "code": 59235,
       "uid": "6b5450145d620234f07ffcbfbb671074",
-      "search": [
-        "left",
-        "player"
-      ],
       "charRef": 61694,
       "fontname": "fontawesome",
       "svg": {
@@ -3339,10 +2436,6 @@ module.exports = {
       "css": "fast-fw",
       "code": 9193,
       "uid": "4e511190b60f329d08301eb6869c5130",
-      "search": [
-        "right",
-        "player"
-      ],
       "charRef": 61695,
       "fontname": "fontawesome",
       "svg": {
@@ -3354,10 +2447,6 @@ module.exports = {
       "css": "fast-bw",
       "code": 9194,
       "uid": "b3d902fcead809e3a64c7ddcda497a6c",
-      "search": [
-        "left",
-        "player"
-      ],
       "charRef": 61696,
       "fontname": "fontawesome",
       "svg": {
@@ -3369,10 +2458,6 @@ module.exports = {
       "css": "eject",
       "code": 11983,
       "uid": "91b141af48402743aa3503d0a7007132",
-      "search": [
-        "eject",
-        "player"
-      ],
       "charRef": 61697,
       "fontname": "fontawesome",
       "svg": {
@@ -3384,9 +2469,6 @@ module.exports = {
       "css": "target",
       "code": 127919,
       "uid": "e75c54c282c0bf22186c5c7ec4b03eac",
-      "search": [
-        "target"
-      ],
       "charRef": 61698,
       "fontname": "fontawesome",
       "svg": {
@@ -3398,11 +2480,6 @@ module.exports = {
       "css": "signal",
       "code": 128246,
       "uid": "d407a4707f719b042ed2ad28d2619d7e",
-      "search": [
-        "broadcast",
-        "wifi",
-        "signal"
-      ],
       "charRef": 61699,
       "fontname": "fontawesome",
       "svg": {
@@ -3414,10 +2491,6 @@ module.exports = {
       "css": "wifi",
       "code": 61931,
       "uid": "cd4bfdae4dc89b175ff49330ce29611a",
-      "search": [
-        "wifi",
-        "signal"
-      ],
       "charRef": 61700,
       "fontname": "fontawesome",
       "svg": {
@@ -3429,12 +2502,6 @@ module.exports = {
       "css": "award",
       "code": 127945,
       "uid": "ab656e280958018a7859eba9a1eabbc7",
-      "search": [
-        "top",
-        "trophy",
-        "prize",
-        "award"
-      ],
       "charRef": 61701,
       "fontname": "fontawesome",
       "svg": {
@@ -3446,11 +2513,6 @@ module.exports = {
       "css": "desktop",
       "code": 61704,
       "uid": "757afacc32d82967975cbb3b45cfb41b",
-      "search": [
-        "desktop",
-        "screen",
-        "monitor"
-      ],
       "charRef": 61702,
       "fontname": "fontawesome",
       "svg": {
@@ -3462,10 +2524,6 @@ module.exports = {
       "css": "laptop",
       "code": 61705,
       "uid": "500fc1f109021e4b1de4deda2f7ed399",
-      "search": [
-        "laptop",
-        "notebook"
-      ],
       "charRef": 61703,
       "fontname": "fontawesome",
       "svg": {
@@ -3477,9 +2535,6 @@ module.exports = {
       "css": "tablet",
       "code": 61706,
       "uid": "f001fc3d4daa7da078e8c971e4f36977",
-      "search": [
-        "tablet"
-      ],
       "charRef": 61704,
       "fontname": "fontawesome",
       "svg": {
@@ -3491,10 +2546,6 @@ module.exports = {
       "css": "mobile",
       "code": 61707,
       "uid": "0357f7abbc0babf43509669f332e41e6",
-      "search": [
-        "mobile",
-        "phone"
-      ],
       "charRef": 61705,
       "fontname": "fontawesome",
       "svg": {
@@ -3506,10 +2557,6 @@ module.exports = {
       "css": "inbox",
       "code": 59255,
       "uid": "c7a75a25880928fe76981a53eca4f926",
-      "search": [
-        "inbox",
-        "stack"
-      ],
       "charRef": 61706,
       "fontname": "fontawesome",
       "svg": {
@@ -3521,10 +2568,6 @@ module.exports = {
       "css": "globe",
       "code": 127758,
       "uid": "197375a3cea8cb90b02d06e4ddf1433d",
-      "search": [
-        "globe",
-        "world"
-      ],
       "charRef": 61707,
       "fontname": "fontawesome",
       "svg": {
@@ -3536,9 +2579,6 @@ module.exports = {
       "css": "sun",
       "code": 61829,
       "uid": "aa035df0908c4665c269b7b09a5596f3",
-      "search": [
-        "sun"
-      ],
       "charRef": 61708,
       "fontname": "fontawesome",
       "svg": {
@@ -3550,9 +2590,6 @@ module.exports = {
       "css": "cloud",
       "code": 9729,
       "uid": "2c413e78faf1d6631fd7b094d14c2253",
-      "search": [
-        "cloud"
-      ],
       "charRef": 61709,
       "fontname": "fontawesome",
       "svg": {
@@ -3564,10 +2601,6 @@ module.exports = {
       "css": "flash",
       "code": 9889,
       "uid": "3212f42c65d41ed91cb435d0490e29ed",
-      "search": [
-        "flash",
-        "bolt"
-      ],
       "charRef": 61710,
       "fontname": "fontawesome",
       "svg": {
@@ -3579,9 +2612,6 @@ module.exports = {
       "css": "moon",
       "code": 61830,
       "uid": "567e3e257f2cc8fba2c12bf691c9f2d8",
-      "search": [
-        "moon"
-      ],
       "charRef": 61711,
       "fontname": "fontawesome",
       "svg": {
@@ -3593,9 +2623,6 @@ module.exports = {
       "css": "umbrella",
       "code": 9730,
       "uid": "24ca41ab002c09de6e89b28f9d599508",
-      "search": [
-        "umbrella"
-      ],
       "charRef": 61712,
       "fontname": "fontawesome",
       "svg": {
@@ -3607,11 +2634,6 @@ module.exports = {
       "css": "flight",
       "code": 9992,
       "uid": "297fe6c2ef08198b03d706ba52f51b7f",
-      "search": [
-        "flight",
-        "plane",
-        "airplane"
-      ],
       "charRef": 61713,
       "fontname": "fontawesome",
       "svg": {
@@ -3623,13 +2645,6 @@ module.exports = {
       "css": "fighter-jet",
       "code": 61691,
       "uid": "cb36cbe4e2dac9545e32c3d80a7c6e03",
-      "search": [
-        "flight",
-        "plane",
-        "airplane",
-        "fly",
-        "jet"
-      ],
       "charRef": 61714,
       "fontname": "fontawesome",
       "svg": {
@@ -3641,12 +2656,6 @@ module.exports = {
       "css": "paper-plane",
       "code": 61912,
       "uid": "38575a803c4da31ce20d77e1e1236bcb",
-      "search": [
-        "flight",
-        "plane",
-        "airplane",
-        "fly"
-      ],
       "charRef": 61715,
       "fontname": "fontawesome",
       "svg": {
@@ -3658,12 +2667,6 @@ module.exports = {
       "css": "paper-plane-empty",
       "code": 61913,
       "uid": "4b2321afcbe0505a70b80abd5c25e09b",
-      "search": [
-        "flight",
-        "plane",
-        "airplane",
-        "fly"
-      ],
       "charRef": 61716,
       "fontname": "fontawesome",
       "svg": {
@@ -3675,10 +2678,6 @@ module.exports = {
       "css": "space-shuttle",
       "code": 61847,
       "uid": "d650df2fd7c4e27d9185d90a1c12a881",
-      "search": [
-        "space",
-        "shuttle"
-      ],
       "charRef": 61717,
       "fontname": "fontawesome",
       "svg": {
@@ -3690,9 +2689,6 @@ module.exports = {
       "css": "leaf",
       "code": 127810,
       "uid": "19e7b342a5e6bd0cd86de6d6208486a4",
-      "search": [
-        "leaf"
-      ],
       "charRef": 61718,
       "fontname": "fontawesome",
       "svg": {
@@ -3704,10 +2700,6 @@ module.exports = {
       "css": "font",
       "code": 59257,
       "uid": "f9cbf7508cd04145ade2800169959eef",
-      "search": [
-        "editor",
-        "font"
-      ],
       "charRef": 61719,
       "fontname": "fontawesome",
       "svg": {
@@ -3719,10 +2711,6 @@ module.exports = {
       "css": "bold",
       "code": 59258,
       "uid": "02cca871bb69da75e8ee286b7055832c",
-      "search": [
-        "editor",
-        "bold"
-      ],
       "charRef": 61720,
       "fontname": "fontawesome",
       "svg": {
@@ -3734,9 +2722,6 @@ module.exports = {
       "css": "medium",
       "code": 62010,
       "uid": "bf09b1c6561dc0ced707476e2cd83d29",
-      "search": [
-        "medium"
-      ],
       "charRef": 61721,
       "fontname": "fontawesome",
       "svg": {
@@ -3748,10 +2733,6 @@ module.exports = {
       "css": "italic",
       "code": 59259,
       "uid": "a8cb1c217f02b073db3670c061cc54d2",
-      "search": [
-        "editor",
-        "italic"
-      ],
       "charRef": 61722,
       "fontname": "fontawesome",
       "svg": {
@@ -3763,9 +2744,6 @@ module.exports = {
       "css": "header",
       "code": 61916,
       "uid": "0c708edd8fae2376b3370aa56d40cf9e",
-      "search": [
-        "header"
-      ],
       "charRef": 61723,
       "fontname": "fontawesome",
       "svg": {
@@ -3777,9 +2755,6 @@ module.exports = {
       "css": "paragraph",
       "code": 61917,
       "uid": "c5845105a87df2ee1999826d90622f6a",
-      "search": [
-        "paragraph"
-      ],
       "charRef": 61724,
       "fontname": "fontawesome",
       "svg": {
@@ -3791,11 +2766,6 @@ module.exports = {
       "css": "text-height",
       "code": 59260,
       "uid": "c009d417f87d6a27bb5a1cefd30b6cbd",
-      "search": [
-        "editor",
-        "text",
-        "height"
-      ],
       "charRef": 61725,
       "fontname": "fontawesome",
       "svg": {
@@ -3807,11 +2777,6 @@ module.exports = {
       "css": "text-width",
       "code": 59261,
       "uid": "13a971bcccd2dda26d4d4eccd8593f8a",
-      "search": [
-        "editor",
-        "text",
-        "width"
-      ],
       "charRef": 61726,
       "fontname": "fontawesome",
       "svg": {
@@ -3823,11 +2788,6 @@ module.exports = {
       "css": "align-left",
       "code": 59262,
       "uid": "f4f0e849b805be1f6d76b65581cb3b8b",
-      "search": [
-        "editor",
-        "align",
-        "left"
-      ],
       "charRef": 61727,
       "fontname": "fontawesome",
       "svg": {
@@ -3839,11 +2799,6 @@ module.exports = {
       "css": "align-center",
       "code": 59263,
       "uid": "ae6336c46d73af999fe7460c089abb4d",
-      "search": [
-        "editor",
-        "align",
-        "center"
-      ],
       "charRef": 61728,
       "fontname": "fontawesome",
       "svg": {
@@ -3855,11 +2810,6 @@ module.exports = {
       "css": "align-right",
       "code": 59264,
       "uid": "e1e7306b47c3c5e6faecce9d32571381",
-      "search": [
-        "editor",
-        "align",
-        "right"
-      ],
       "charRef": 61729,
       "fontname": "fontawesome",
       "svg": {
@@ -3871,11 +2821,6 @@ module.exports = {
       "css": "align-justify",
       "code": 59265,
       "uid": "25a81737628d1e654a30ad412d7d6dd7",
-      "search": [
-        "editor",
-        "align",
-        "justify"
-      ],
       "charRef": 61730,
       "fontname": "fontawesome",
       "svg": {
@@ -3887,10 +2832,6 @@ module.exports = {
       "css": "list",
       "code": 59266,
       "uid": "48b87105bd38c20315f1b705b8c7b38c",
-      "search": [
-        "editor",
-        "list"
-      ],
       "charRef": 61731,
       "fontname": "fontawesome",
       "svg": {
@@ -3902,10 +2843,6 @@ module.exports = {
       "css": "indent-left",
       "code": 59267,
       "uid": "594e9271c08ff732c04b3bf3117b9040",
-      "search": [
-        "editor",
-        "indent"
-      ],
       "charRef": 61732,
       "fontname": "fontawesome",
       "svg": {
@@ -3917,10 +2854,6 @@ module.exports = {
       "css": "indent-right",
       "code": 59268,
       "uid": "4d2dfc45d8176b1f26aed973fa84a91e",
-      "search": [
-        "editor",
-        "indent"
-      ],
       "charRef": 61733,
       "fontname": "fontawesome",
       "svg": {
@@ -3932,9 +2865,6 @@ module.exports = {
       "css": "list-bullet",
       "code": 61642,
       "uid": "a2a74f5e7b7d9ba054897d8c795a326a",
-      "search": [
-        "list"
-      ],
       "charRef": 61734,
       "fontname": "fontawesome",
       "svg": {
@@ -3946,9 +2876,6 @@ module.exports = {
       "css": "list-numbered",
       "code": 61643,
       "uid": "f6766a8b042c2453a4e153af03294383",
-      "search": [
-        "list"
-      ],
       "charRef": 61735,
       "fontname": "fontawesome",
       "svg": {
@@ -3960,9 +2887,6 @@ module.exports = {
       "css": "strike",
       "code": 61644,
       "uid": "61c242c9e2134d5864d7fdd57b3c9289",
-      "search": [
-        "strike"
-      ],
       "charRef": 61736,
       "fontname": "fontawesome",
       "svg": {
@@ -3974,9 +2898,6 @@ module.exports = {
       "css": "underline",
       "code": 61645,
       "uid": "d4a4a38a40b728f46dad1de4ac950231",
-      "search": [
-        "underline"
-      ],
       "charRef": 61737,
       "fontname": "fontawesome",
       "svg": {
@@ -3988,10 +2909,6 @@ module.exports = {
       "css": "superscript",
       "code": 61739,
       "uid": "4e88371fb8857dacc1f66afe6314e426",
-      "search": [
-        "editor",
-        "superscript"
-      ],
       "charRef": 61738,
       "fontname": "fontawesome",
       "svg": {
@@ -4003,10 +2920,6 @@ module.exports = {
       "css": "subscript",
       "code": 61740,
       "uid": "3d1c929dbc966992185ce749548c1b2c",
-      "search": [
-        "editor",
-        "subscript"
-      ],
       "charRef": 61739,
       "fontname": "fontawesome",
       "svg": {
@@ -4018,9 +2931,6 @@ module.exports = {
       "css": "table",
       "code": 61646,
       "uid": "8fb55fd696d9a0f58f3b27c1d8633750",
-      "search": [
-        "table"
-      ],
       "charRef": 61740,
       "fontname": "fontawesome",
       "svg": {
@@ -4032,9 +2942,6 @@ module.exports = {
       "css": "columns",
       "code": 61659,
       "uid": "53dd31a6cc6438192b2d7b09b1c1dd45",
-      "search": [
-        "columns"
-      ],
       "charRef": 61741,
       "fontname": "fontawesome",
       "svg": {
@@ -4046,9 +2953,6 @@ module.exports = {
       "css": "crop",
       "code": 61733,
       "uid": "09bdae120f85e79f2db16145a9e1f6d8",
-      "search": [
-        "crop"
-      ],
       "charRef": 61742,
       "fontname": "fontawesome",
       "svg": {
@@ -4060,10 +2964,6 @@ module.exports = {
       "css": "scissors",
       "code": 9986,
       "uid": "8772331a9fec983cdb5d72902a6f9e0e",
-      "search": [
-        "scissors",
-        "cut"
-      ],
       "charRef": 61743,
       "fontname": "fontawesome",
       "svg": {
@@ -4075,9 +2975,6 @@ module.exports = {
       "css": "paste",
       "code": 61674,
       "uid": "b429436ec5a518c78479d44ef18dbd60",
-      "search": [
-        "paste"
-      ],
       "charRef": 61744,
       "fontname": "fontawesome",
       "svg": {
@@ -4089,9 +2986,6 @@ module.exports = {
       "css": "briefcase",
       "code": 128188,
       "uid": "053b757d97042e1c94276200c7b64b91",
-      "search": [
-        "briefcase"
-      ],
       "charRef": 61745,
       "fontname": "fontawesome",
       "svg": {
@@ -4103,9 +2997,6 @@ module.exports = {
       "css": "suitcase",
       "code": 61682,
       "uid": "5ccf1ed249fd9d723ec1ce8629a9f507",
-      "search": [
-        "suitcase"
-      ],
       "charRef": 61746,
       "fontname": "fontawesome",
       "svg": {
@@ -4117,9 +3008,6 @@ module.exports = {
       "css": "ellipsis",
       "code": 61761,
       "uid": "107ce08c7231097c7447d8f4d059b55f",
-      "search": [
-        "ellipsis"
-      ],
       "charRef": 61747,
       "fontname": "fontawesome",
       "svg": {
@@ -4131,9 +3019,6 @@ module.exports = {
       "css": "ellipsis-vert",
       "code": 61762,
       "uid": "750058837a91edae64b03d60fc7e81a7",
-      "search": [
-        "ellipsis"
-      ],
       "charRef": 61748,
       "fontname": "fontawesome",
       "svg": {
@@ -4145,9 +3030,6 @@ module.exports = {
       "css": "off",
       "code": 59278,
       "uid": "8b9e6a8dd8f67f7c003ed8e7e5ee0857",
-      "search": [
-        "off"
-      ],
       "charRef": 61749,
       "fontname": "fontawesome",
       "svg": {
@@ -4159,9 +3041,6 @@ module.exports = {
       "css": "road",
       "code": 59279,
       "uid": "ecede48deb16179e5ef9a3f8ffae62f4",
-      "search": [
-        "road"
-      ],
       "charRef": 61750,
       "fontname": "fontawesome",
       "svg": {
@@ -4173,9 +3052,6 @@ module.exports = {
       "css": "list-alt",
       "code": 59280,
       "uid": "c819c6225685bae2eed1b8da13e629fa",
-      "search": [
-        "list"
-      ],
       "charRef": 61751,
       "fontname": "fontawesome",
       "svg": {
@@ -4187,9 +3063,6 @@ module.exports = {
       "css": "qrcode",
       "code": 59281,
       "uid": "fd45bb961d08f9f2092f0df3fba29fe9",
-      "search": [
-        "qrcode"
-      ],
       "charRef": 61752,
       "fontname": "fontawesome",
       "svg": {
@@ -4201,9 +3074,6 @@ module.exports = {
       "css": "barcode",
       "code": 59282,
       "uid": "aa991e8e66ac54b33f0a4b0555597b08",
-      "search": [
-        "barcode"
-      ],
       "charRef": 61753,
       "fontname": "fontawesome",
       "svg": {
@@ -4215,9 +3085,6 @@ module.exports = {
       "css": "book",
       "code": 128213,
       "uid": "9755f76110ae4d12ac5f9466c9152031",
-      "search": [
-        "book"
-      ],
       "charRef": 61754,
       "fontname": "fontawesome",
       "svg": {
@@ -4229,10 +3096,6 @@ module.exports = {
       "css": "ajust",
       "code": 59283,
       "uid": "ca90da02d2c6a3183f2458e4dc416285",
-      "search": [
-        "ajust",
-        "contrast"
-      ],
       "charRef": 61755,
       "fontname": "fontawesome",
       "svg": {
@@ -4244,9 +3107,6 @@ module.exports = {
       "css": "tint",
       "code": 59284,
       "uid": "83458acd9f38d03ec0226ce82a83c0f4",
-      "search": [
-        "tint"
-      ],
       "charRef": 61756,
       "fontname": "fontawesome",
       "svg": {
@@ -4258,12 +3118,6 @@ module.exports = {
       "css": "toggle-off",
       "code": 61956,
       "uid": "2a4e6c99b732a57da40e32fa2a7800a4",
-      "search": [
-        "toggle",
-        "switch",
-        "off",
-        "disable"
-      ],
       "charRef": 61757,
       "fontname": "fontawesome",
       "svg": {
@@ -4275,12 +3129,6 @@ module.exports = {
       "css": "toggle-on",
       "code": 61957,
       "uid": "3256ef03b16e7ab51235bc7378b53bb5",
-      "search": [
-        "toggle",
-        "switch",
-        "on",
-        "enable"
-      ],
       "charRef": 61758,
       "fontname": "fontawesome",
       "svg": {
@@ -4292,9 +3140,6 @@ module.exports = {
       "css": "check",
       "code": 9745,
       "uid": "dd6c6b221a1088ff8a9b9cd32d0b3dd5",
-      "search": [
-        "check"
-      ],
       "charRef": 61759,
       "fontname": "fontawesome",
       "svg": {
@@ -4306,10 +3151,6 @@ module.exports = {
       "css": "check-empty",
       "code": 61590,
       "uid": "4b900d04e8ab8c82f080c1cfbac5772c",
-      "search": [
-        "check",
-        "empty"
-      ],
       "charRef": 61760,
       "fontname": "fontawesome",
       "svg": {
@@ -4321,9 +3162,6 @@ module.exports = {
       "css": "circle",
       "code": 61713,
       "uid": "130380e481a7defc690dfb24123a1f0c",
-      "search": [
-        "circle"
-      ],
       "charRef": 61761,
       "fontname": "fontawesome",
       "svg": {
@@ -4335,10 +3173,6 @@ module.exports = {
       "css": "circle-empty",
       "code": 61708,
       "uid": "422e07e5afb80258a9c4ed1706498f8a",
-      "search": [
-        "circle",
-        "radio"
-      ],
       "charRef": 61762,
       "fontname": "fontawesome",
       "svg": {
@@ -4350,9 +3184,6 @@ module.exports = {
       "css": "circle-thin",
       "code": 61915,
       "uid": "5774d0a0e50f6eefc8be01bd761e5dd3",
-      "search": [
-        "circle"
-      ],
       "charRef": 61763,
       "fontname": "fontawesome",
       "svg": {
@@ -4364,10 +3195,6 @@ module.exports = {
       "css": "circle-notch",
       "code": 61902,
       "uid": "4ffd8122933b9ee0183b925e1554969f",
-      "search": [
-        "circle",
-        "notch"
-      ],
       "charRef": 61764,
       "fontname": "fontawesome",
       "svg": {
@@ -4379,10 +3206,6 @@ module.exports = {
       "css": "dot-circled",
       "code": 61842,
       "uid": "81bb68665e8e595505272a746db07c7a",
-      "search": [
-        "dot",
-        "radio"
-      ],
       "charRef": 61765,
       "fontname": "fontawesome",
       "svg": {
@@ -4394,9 +3217,6 @@ module.exports = {
       "css": "asterisk",
       "code": 10033,
       "uid": "823a9e02e643318116fea40a00190e4e",
-      "search": [
-        "asterisk"
-      ],
       "charRef": 61766,
       "fontname": "fontawesome",
       "svg": {
@@ -4408,12 +3228,6 @@ module.exports = {
       "css": "gift",
       "code": 127873,
       "uid": "28f308aa0a07a67433f54c089c400d82",
-      "search": [
-        "gift",
-        "present",
-        "package",
-        "box"
-      ],
       "charRef": 61767,
       "fontname": "fontawesome",
       "svg": {
@@ -4425,9 +3239,6 @@ module.exports = {
       "css": "fire",
       "code": 128293,
       "uid": "254077e7c0a9e6d303b32f9c35b96a40",
-      "search": [
-        "fire"
-      ],
       "charRef": 61768,
       "fontname": "fontawesome",
       "svg": {
@@ -4439,9 +3250,6 @@ module.exports = {
       "css": "magnet",
       "code": 59297,
       "uid": "d20912c814d0ff9a7fd27ed1f54813cc",
-      "search": [
-        "magnet"
-      ],
       "charRef": 61769,
       "fontname": "fontawesome",
       "svg": {
@@ -4453,11 +3261,6 @@ module.exports = {
       "css": "chart-bar",
       "code": 128202,
       "uid": "266d5d9adf15a61800477a5acf9a4462",
-      "search": [
-        "chart",
-        "bar",
-        "diagram"
-      ],
       "charRef": 61770,
       "fontname": "fontawesome",
       "svg": {
@@ -4469,9 +3272,6 @@ module.exports = {
       "css": "chart-area",
       "code": 61950,
       "uid": "7d1ca956f4181a023de4b9efbed92524",
-      "search": [
-        "chart"
-      ],
       "charRef": 61771,
       "fontname": "fontawesome",
       "svg": {
@@ -4483,10 +3283,6 @@ module.exports = {
       "css": "chart-pie",
       "code": 61952,
       "uid": "554ee96588a6c9ee632624cd051fe6fc",
-      "search": [
-        "chart",
-        "pie"
-      ],
       "charRef": 61772,
       "fontname": "fontawesome",
       "svg": {
@@ -4498,9 +3294,6 @@ module.exports = {
       "css": "chart-line",
       "code": 61953,
       "uid": "ea2d9a8c51ca42b38ef0d2a07f16d9a7",
-      "search": [
-        "chart"
-      ],
       "charRef": 61773,
       "fontname": "fontawesome",
       "svg": {
@@ -4512,9 +3305,6 @@ module.exports = {
       "css": "ticket",
       "code": 61765,
       "uid": "d6fcb9886485b0bdb41b94521e7a3311",
-      "search": [
-        "ticket"
-      ],
       "charRef": 61774,
       "fontname": "fontawesome",
       "svg": {
@@ -4526,11 +3316,6 @@ module.exports = {
       "css": "credit-card",
       "code": 128179,
       "uid": "3d8cc269fdad8a4cda55a20542a84e5c",
-      "search": [
-        "card",
-        "plastic",
-        "credit"
-      ],
       "charRef": 61775,
       "fontname": "fontawesome",
       "svg": {
@@ -4542,10 +3327,6 @@ module.exports = {
       "css": "floppy",
       "code": 128190,
       "uid": "f4445feb55521283572ee88bc304f928",
-      "search": [
-        "floppy",
-        "save"
-      ],
       "charRef": 61776,
       "fontname": "fontawesome",
       "svg": {
@@ -4557,10 +3338,6 @@ module.exports = {
       "css": "megaphone",
       "code": 128227,
       "uid": "3e674995cacc2b09692c096ea7eb6165",
-      "search": [
-        "megaphone",
-        "bullhorn"
-      ],
       "charRef": 61777,
       "fontname": "fontawesome",
       "svg": {
@@ -4572,11 +3349,6 @@ module.exports = {
       "css": "hdd",
       "code": 61600,
       "uid": "795efd07cd5205b589c883916a76cff0",
-      "search": [
-        "hdd",
-        "drive",
-        "disk"
-      ],
       "charRef": 61778,
       "fontname": "fontawesome",
       "svg": {
@@ -4588,9 +3360,6 @@ module.exports = {
       "css": "key",
       "code": 128273,
       "uid": "f2aa28a2548ed3d2be718d087b65ee21",
-      "search": [
-        "key"
-      ],
       "charRef": 61779,
       "fontname": "fontawesome",
       "svg": {
@@ -4602,11 +3371,6 @@ module.exports = {
       "css": "fork",
       "code": 61734,
       "uid": "bc4b94dd7a9a1dd2e02f9e4648062596",
-      "search": [
-        "fork",
-        "junction",
-        "flow"
-      ],
       "charRef": 61780,
       "fontname": "fontawesome",
       "svg": {
@@ -4618,9 +3382,6 @@ module.exports = {
       "css": "rocket",
       "code": 61749,
       "uid": "8aa99bc60f3553bb3e31b73dd6e744c8",
-      "search": [
-        "rocket"
-      ],
       "charRef": 61781,
       "fontname": "fontawesome",
       "svg": {
@@ -4632,9 +3393,6 @@ module.exports = {
       "css": "bug",
       "code": 61832,
       "uid": "7432077e6a2d6aa19984ca821bb6bbda",
-      "search": [
-        "bug"
-      ],
       "charRef": 61782,
       "fontname": "fontawesome",
       "svg": {
@@ -4646,9 +3404,6 @@ module.exports = {
       "css": "certificate",
       "code": 61603,
       "uid": "d61be837c725a299b432dcbee2ecdae6",
-      "search": [
-        "certificate"
-      ],
       "charRef": 61783,
       "fontname": "fontawesome",
       "svg": {
@@ -4660,9 +3415,6 @@ module.exports = {
       "css": "tasks",
       "code": 61614,
       "uid": "9396b2d8849e0213a0f11c5fd7fcc522",
-      "search": [
-        "tasks"
-      ],
       "charRef": 61784,
       "fontname": "fontawesome",
       "svg": {
@@ -4674,9 +3426,6 @@ module.exports = {
       "css": "filter",
       "code": 61616,
       "uid": "4109c474ff99cad28fd5a2c38af2ec6f",
-      "search": [
-        "filter"
-      ],
       "charRef": 61785,
       "fontname": "fontawesome",
       "svg": {
@@ -4688,9 +3437,6 @@ module.exports = {
       "css": "beaker",
       "code": 61635,
       "uid": "0f444c61b0d2c9966016d7ddb12f5837",
-      "search": [
-        "beaker"
-      ],
       "charRef": 61786,
       "fontname": "fontawesome",
       "svg": {
@@ -4702,9 +3448,6 @@ module.exports = {
       "css": "magic",
       "code": 61648,
       "uid": "ff70f7b3228702e0d590e60ed3b90bea",
-      "search": [
-        "magic"
-      ],
       "charRef": 61787,
       "fontname": "fontawesome",
       "svg": {
@@ -4716,11 +3459,6 @@ module.exports = {
       "css": "cab",
       "code": 61881,
       "uid": "9937d762aee170b7350b15dd02dd34a3",
-      "search": [
-        "cab",
-        "auto",
-        "car"
-      ],
       "charRef": 61788,
       "fontname": "fontawesome",
       "svg": {
@@ -4732,11 +3470,6 @@ module.exports = {
       "css": "taxi",
       "code": 61882,
       "uid": "5eacf9f8805e2c0bc306dcd1e709db16",
-      "search": [
-        "taxi",
-        "auto",
-        "car"
-      ],
       "charRef": 61789,
       "fontname": "fontawesome",
       "svg": {
@@ -4748,11 +3481,6 @@ module.exports = {
       "css": "truck",
       "code": 128666,
       "uid": "7f3d8ff1d5f6ee019f0c00ed7a86caec",
-      "search": [
-        "truck",
-        "auto",
-        "car"
-      ],
       "charRef": 61790,
       "fontname": "fontawesome",
       "svg": {
@@ -4764,10 +3492,6 @@ module.exports = {
       "css": "bus",
       "code": 61959,
       "uid": "5b17c7263caa553039655f2fef81ecaf",
-      "search": [
-        "bus",
-        "auto"
-      ],
       "charRef": 61791,
       "fontname": "fontawesome",
       "svg": {
@@ -4779,9 +3503,6 @@ module.exports = {
       "css": "bicycle",
       "code": 61958,
       "uid": "891d861cffd152a6474f01e77716d44e",
-      "search": [
-        "bicycle"
-      ],
       "charRef": 61792,
       "fontname": "fontawesome",
       "svg": {
@@ -4793,9 +3514,6 @@ module.exports = {
       "css": "motorcycle",
       "code": 61980,
       "uid": "326dd5dc5899787161184614d04a50b9",
-      "search": [
-        "motorcycle"
-      ],
       "charRef": 61793,
       "fontname": "fontawesome",
       "svg": {
@@ -4807,9 +3525,6 @@ module.exports = {
       "css": "train",
       "code": 62008,
       "uid": "4df54de7f9081aefcc1476068d4464e9",
-      "search": [
-        "train"
-      ],
       "charRef": 61794,
       "fontname": "fontawesome",
       "svg": {
@@ -4821,9 +3536,6 @@ module.exports = {
       "css": "subway",
       "code": 62009,
       "uid": "26667777684de4808cedd3783834356f",
-      "search": [
-        "subway"
-      ],
       "charRef": 61795,
       "fontname": "fontawesome",
       "svg": {
@@ -4835,11 +3547,6 @@ module.exports = {
       "css": "ship",
       "code": 61978,
       "uid": "3bf0956ae356f79d805fb17f4a523f24",
-      "search": [
-        "ship",
-        "boat",
-        "swim"
-      ],
       "charRef": 61796,
       "fontname": "fontawesome",
       "svg": {
@@ -4851,10 +3558,6 @@ module.exports = {
       "css": "money",
       "code": 61654,
       "uid": "f279f25007794fa6837ff78fe94b216e",
-      "search": [
-        "money",
-        "banknote"
-      ],
       "charRef": 61797,
       "fontname": "fontawesome",
       "svg": {
@@ -4866,10 +3569,6 @@ module.exports = {
       "css": "euro",
       "code": 61779,
       "uid": "486b835e9eebf54eee78ed12b4291b86",
-      "search": [
-        "euro",
-        "money"
-      ],
       "charRef": 61798,
       "fontname": "fontawesome",
       "svg": {
@@ -4881,11 +3580,6 @@ module.exports = {
       "css": "pound",
       "code": 61780,
       "uid": "9854f7f091bd4fdf9b8735ed66667b9d",
-      "search": [
-        "pound",
-        "gpb",
-        "money"
-      ],
       "charRef": 61799,
       "fontname": "fontawesome",
       "svg": {
@@ -4897,11 +3591,6 @@ module.exports = {
       "css": "dollar",
       "code": 61781,
       "uid": "026007bd17bfc67f3fe013199676f620",
-      "search": [
-        "dollar",
-        "usd",
-        "money"
-      ],
       "charRef": 61800,
       "fontname": "fontawesome",
       "svg": {
@@ -4913,11 +3602,6 @@ module.exports = {
       "css": "rupee",
       "code": 61782,
       "uid": "62e4fa2c664818d20ce4740cadbf9aeb",
-      "search": [
-        "rupee",
-        "inr",
-        "money"
-      ],
       "charRef": 61801,
       "fontname": "fontawesome",
       "svg": {
@@ -4929,13 +3613,6 @@ module.exports = {
       "css": "yen",
       "code": 61783,
       "uid": "5f61f8a682b77d2529296a8061bf9597",
-      "search": [
-        "yen",
-        "jpy",
-        "renminbi",
-        "cny",
-        "money"
-      ],
       "charRef": 61802,
       "fontname": "fontawesome",
       "svg": {
@@ -4947,13 +3624,6 @@ module.exports = {
       "css": "rouble",
       "code": 61784,
       "uid": "243424d56528e83e4fe9ef6e6347a2ef",
-      "search": [
-        "rouble",
-        "rub",
-        "rur",
-        "ruble",
-        "money"
-      ],
       "charRef": 61803,
       "fontname": "fontawesome",
       "svg": {
@@ -4965,11 +3635,6 @@ module.exports = {
       "css": "shekel",
       "code": 61963,
       "uid": "589ae2cbc6d95cc74eb2dbd3fa9c9bcd",
-      "search": [
-        "ils",
-        "shekel",
-        "sheqel"
-      ],
       "charRef": 61804,
       "fontname": "fontawesome",
       "svg": {
@@ -4981,10 +3646,6 @@ module.exports = {
       "css": "try",
       "code": 61845,
       "uid": "7f5801d1e299b445ad0090b0a9e94bcb",
-      "search": [
-        "try",
-        "lira"
-      ],
       "charRef": 61805,
       "fontname": "fontawesome",
       "svg": {
@@ -4996,11 +3657,6 @@ module.exports = {
       "css": "won",
       "code": 61785,
       "uid": "82f0dc5149d842219e45000bebd683fb",
-      "search": [
-        "won",
-        "krw",
-        "money"
-      ],
       "charRef": 61806,
       "fontname": "fontawesome",
       "svg": {
@@ -5012,10 +3668,6 @@ module.exports = {
       "css": "bitcoin",
       "code": 61786,
       "uid": "2cb15eb2b295ee3c33fab1530e18a924",
-      "search": [
-        "bitcoin",
-        "money"
-      ],
       "charRef": 61807,
       "fontname": "fontawesome",
       "svg": {
@@ -5027,9 +3679,6 @@ module.exports = {
       "css": "viacoin",
       "code": 62007,
       "uid": "77b6b5ad1966970971c43e40e8d10772",
-      "search": [
-        "viacoin"
-      ],
       "charRef": 61808,
       "fontname": "fontawesome",
       "svg": {
@@ -5041,9 +3690,6 @@ module.exports = {
       "css": "sort",
       "code": 61660,
       "uid": "56a21935a5d4d79b2e91ec00f760b369",
-      "search": [
-        "sort"
-      ],
       "charRef": 61809,
       "fontname": "fontawesome",
       "svg": {
@@ -5055,9 +3701,6 @@ module.exports = {
       "css": "sort-down",
       "code": 61661,
       "uid": "94103e1b3f1e8cf514178ec5912b4469",
-      "search": [
-        "sort"
-      ],
       "charRef": 61810,
       "fontname": "fontawesome",
       "svg": {
@@ -5069,9 +3712,6 @@ module.exports = {
       "css": "sort-up",
       "code": 61662,
       "uid": "65b3ce930627cabfb6ac81ac60ec5ae4",
-      "search": [
-        "sort"
-      ],
       "charRef": 61811,
       "fontname": "fontawesome",
       "svg": {
@@ -5083,9 +3723,6 @@ module.exports = {
       "css": "sort-alt-up",
       "code": 61792,
       "uid": "0cd2582b8c93719d066ee0affd02ac78",
-      "search": [
-        "sort"
-      ],
       "charRef": 61812,
       "fontname": "fontawesome",
       "svg": {
@@ -5097,9 +3734,6 @@ module.exports = {
       "css": "sort-alt-down",
       "code": 61793,
       "uid": "27b13eff5eb0ca15e01a6e65ffe6eeec",
-      "search": [
-        "sort"
-      ],
       "charRef": 61813,
       "fontname": "fontawesome",
       "svg": {
@@ -5111,9 +3745,6 @@ module.exports = {
       "css": "sort-name-up",
       "code": 61789,
       "uid": "3ed68ae14e9cde775121954242a412b2",
-      "search": [
-        "sort"
-      ],
       "charRef": 61814,
       "fontname": "fontawesome",
       "svg": {
@@ -5125,9 +3756,6 @@ module.exports = {
       "css": "sort-name-down",
       "code": 61790,
       "uid": "6586267200a42008a9fc0a1bf7ac06c7",
-      "search": [
-        "sort"
-      ],
       "charRef": 61815,
       "fontname": "fontawesome",
       "svg": {
@@ -5139,9 +3767,6 @@ module.exports = {
       "css": "sort-number-up",
       "code": 61794,
       "uid": "3a7b6876c1817ce3b801b86c04a9d0af",
-      "search": [
-        "sort"
-      ],
       "charRef": 61816,
       "fontname": "fontawesome",
       "svg": {
@@ -5153,9 +3778,6 @@ module.exports = {
       "css": "sort-number-down",
       "code": 61795,
       "uid": "b04fc30546f597a7e0a14715e6fc81ff",
-      "search": [
-        "sort"
-      ],
       "charRef": 61817,
       "fontname": "fontawesome",
       "svg": {
@@ -5167,10 +3789,6 @@ module.exports = {
       "css": "hammer",
       "code": 128296,
       "uid": "dec0ce0476433f7e49e096526cf89465",
-      "search": [
-        "hammer",
-        "legal"
-      ],
       "charRef": 61818,
       "fontname": "fontawesome",
       "svg": {
@@ -5182,11 +3800,6 @@ module.exports = {
       "css": "gauge",
       "code": 61668,
       "uid": "0bda4bc779d4c32623dec2e43bd67ee8",
-      "search": [
-        "gauge",
-        "indicator",
-        "dashboard"
-      ],
       "charRef": 61819,
       "fontname": "fontawesome",
       "svg": {
@@ -5198,9 +3811,6 @@ module.exports = {
       "css": "sitemap",
       "code": 61672,
       "uid": "6fe95ffc3c807e62647d4f814a96e0d7",
-      "search": [
-        "sitemap"
-      ],
       "charRef": 61820,
       "fontname": "fontawesome",
       "svg": {
@@ -5212,9 +3822,6 @@ module.exports = {
       "css": "spinner",
       "code": 61712,
       "uid": "cda0cdcfd38f5f1d9255e722dad42012",
-      "search": [
-        "spinner"
-      ],
       "charRef": 61821,
       "fontname": "fontawesome",
       "svg": {
@@ -5226,10 +3833,6 @@ module.exports = {
       "css": "coffee",
       "code": 61684,
       "uid": "3a26448b711645ba1abfc86c1a6e2f30",
-      "search": [
-        "coffee",
-        "cup"
-      ],
       "charRef": 61822,
       "fontname": "fontawesome",
       "svg": {
@@ -5241,10 +3844,6 @@ module.exports = {
       "css": "food",
       "code": 61685,
       "uid": "30b79160618d99ce798e4bd11cafe3fe",
-      "search": [
-        "food",
-        "eat"
-      ],
       "charRef": 61823,
       "fontname": "fontawesome",
       "svg": {
@@ -5256,9 +3855,6 @@ module.exports = {
       "css": "beer",
       "code": 61692,
       "uid": "890bcc8897cce868f6ee65cadadde036",
-      "search": [
-        "beer"
-      ],
       "charRef": 61824,
       "fontname": "fontawesome",
       "svg": {
@@ -5270,9 +3866,6 @@ module.exports = {
       "css": "user-md",
       "code": 61680,
       "uid": "9e8430ce95f56720ae8e7afba291df88",
-      "search": [
-        "medic"
-      ],
       "charRef": 61825,
       "fontname": "fontawesome",
       "svg": {
@@ -5284,9 +3877,6 @@ module.exports = {
       "css": "stethoscope",
       "code": 61681,
       "uid": "5590d2f643b64d2d0757ae660f9c24cb",
-      "search": [
-        "stethoscope"
-      ],
       "charRef": 61826,
       "fontname": "fontawesome",
       "svg": {
@@ -5298,9 +3888,6 @@ module.exports = {
       "css": "heartbeat",
       "code": 61982,
       "uid": "d84a06c5ce6da9ebdc9b0a5cb94db4c4",
-      "search": [
-        "heartbeat"
-      ],
       "charRef": 61827,
       "fontname": "fontawesome",
       "svg": {
@@ -5312,9 +3899,6 @@ module.exports = {
       "css": "ambulance",
       "code": 61689,
       "uid": "6dbf07228006788a96eb6244b3591970",
-      "search": [
-        "ambulance"
-      ],
       "charRef": 61828,
       "fontname": "fontawesome",
       "svg": {
@@ -5326,9 +3910,6 @@ module.exports = {
       "css": "medkit",
       "code": 61690,
       "uid": "46120eb259799eab0dac0691137e5706",
-      "search": [
-        "medkit"
-      ],
       "charRef": 61829,
       "fontname": "fontawesome",
       "svg": {
@@ -5340,9 +3921,6 @@ module.exports = {
       "css": "h-sigh",
       "code": 61693,
       "uid": "6f41d9b99564a01f1fde503b7f03bf1a",
-      "search": [
-        "hospital"
-      ],
       "charRef": 61830,
       "fontname": "fontawesome",
       "svg": {
@@ -5354,10 +3932,6 @@ module.exports = {
       "css": "bed",
       "code": 62006,
       "uid": "df9d9b2fb366c10427ffb727943db912",
-      "search": [
-        "bed",
-        "sleep"
-      ],
       "charRef": 61831,
       "fontname": "fontawesome",
       "svg": {
@@ -5369,9 +3943,6 @@ module.exports = {
       "css": "hospital",
       "code": 61688,
       "uid": "c4adaacece4c6341a9ae1816f5ea500c",
-      "search": [
-        "hospital"
-      ],
       "charRef": 61832,
       "fontname": "fontawesome",
       "svg": {
@@ -5383,9 +3954,6 @@ module.exports = {
       "css": "building",
       "code": 61687,
       "uid": "3d1e04316a48ace4e2b81be58343a41c",
-      "search": [
-        "building"
-      ],
       "charRef": 61833,
       "fontname": "fontawesome",
       "svg": {
@@ -5397,9 +3965,6 @@ module.exports = {
       "css": "building-filled",
       "code": 61869,
       "uid": "ede2ea0a583f662b79fbb181b428c20d",
-      "search": [
-        "building"
-      ],
       "charRef": 61834,
       "fontname": "fontawesome",
       "svg": {
@@ -5411,13 +3976,6 @@ module.exports = {
       "css": "bank",
       "code": 61852,
       "uid": "8c0ffa714cecbf5144e022d9c3df4a1f",
-      "search": [
-        "bank",
-        "university",
-        "institution",
-        "temple",
-        "columns"
-      ],
       "charRef": 61835,
       "fontname": "fontawesome",
       "svg": {
@@ -5429,12 +3987,6 @@ module.exports = {
       "css": "smile",
       "code": 61720,
       "uid": "d862a10e1448589215be19702f98f2c1",
-      "search": [
-        "emoticon",
-        "sniley",
-        "smile",
-        "happy"
-      ],
       "charRef": 61836,
       "fontname": "fontawesome",
       "svg": {
@@ -5446,11 +3998,6 @@ module.exports = {
       "css": "frown",
       "code": 61721,
       "uid": "06ddc67d609c477cd5524a7238d7850d",
-      "search": [
-        "emoticon",
-        "sniley",
-        "frown"
-      ],
       "charRef": 61837,
       "fontname": "fontawesome",
       "svg": {
@@ -5462,11 +4009,6 @@ module.exports = {
       "css": "meh",
       "code": 61722,
       "uid": "2c5055a9c9723725f49f0593a08535af",
-      "search": [
-        "emoticon",
-        "sniley",
-        "meh"
-      ],
       "charRef": 61838,
       "fontname": "fontawesome",
       "svg": {
@@ -5478,9 +4020,6 @@ module.exports = {
       "css": "anchor",
       "code": 61757,
       "uid": "7a9d73c640892d4b917c706ad95d6fec",
-      "search": [
-        "anchor"
-      ],
       "charRef": 61839,
       "fontname": "fontawesome",
       "svg": {
@@ -5492,10 +4031,6 @@ module.exports = {
       "css": "terminal",
       "code": 61728,
       "uid": "fa10777b2d88cc64cd6e4f26ef0e5264",
-      "search": [
-        "terminal",
-        "prompt"
-      ],
       "charRef": 61840,
       "fontname": "fontawesome",
       "svg": {
@@ -5507,9 +4042,6 @@ module.exports = {
       "css": "eraser",
       "code": 61741,
       "uid": "ebc57fa8400e4ede049ac5dc665210e1",
-      "search": [
-        "eraser"
-      ],
       "charRef": 61841,
       "fontname": "fontawesome",
       "svg": {
@@ -5521,9 +4053,6 @@ module.exports = {
       "css": "puzzle",
       "code": 61742,
       "uid": "5f0f183e241d15cbe486bff88b188dff",
-      "search": [
-        "puzzle"
-      ],
       "charRef": 61842,
       "fontname": "fontawesome",
       "svg": {
@@ -5535,10 +4064,6 @@ module.exports = {
       "css": "shield",
       "code": 61746,
       "uid": "44a0e2660ac966cdfaa04deb6aac51df",
-      "search": [
-        "shield",
-        "chest"
-      ],
       "charRef": 61843,
       "fontname": "fontawesome",
       "svg": {
@@ -5550,9 +4075,6 @@ module.exports = {
       "css": "extinguisher",
       "code": 61748,
       "uid": "1e7648f03fbdc28114a00b33b059b499",
-      "search": [
-        "extinguisher"
-      ],
       "charRef": 61844,
       "fontname": "fontawesome",
       "svg": {
@@ -5564,9 +4086,6 @@ module.exports = {
       "css": "bullseye",
       "code": 61760,
       "uid": "c92ad3028acce9d51bae0ac82f5de8a2",
-      "search": [
-        "bullseye"
-      ],
       "charRef": 61845,
       "fontname": "fontawesome",
       "svg": {
@@ -5578,10 +4097,6 @@ module.exports = {
       "css": "wheelchair",
       "code": 61843,
       "uid": "8a67014b864fb93503348593979ddce3",
-      "search": [
-        "wheelchair",
-        "accessibility"
-      ],
       "charRef": 61846,
       "fontname": "fontawesome",
       "svg": {
@@ -5593,9 +4108,6 @@ module.exports = {
       "css": "language",
       "code": 61867,
       "uid": "4fc9b8c122d1b5ca3df42a104a655e8b",
-      "search": [
-        "language"
-      ],
       "charRef": 61847,
       "fontname": "fontawesome",
       "svg": {
@@ -5607,9 +4119,6 @@ module.exports = {
       "css": "graduation-cap",
       "code": 61853,
       "uid": "20fc52f9a88bb7bda023ef209acac095",
-      "search": [
-        "graduation cap"
-      ],
       "charRef": 61848,
       "fontname": "fontawesome",
       "svg": {
@@ -5621,9 +4130,6 @@ module.exports = {
       "css": "paw",
       "code": 61872,
       "uid": "55605ca79a65def1a9c300037ff1d0d5",
-      "search": [
-        "paw"
-      ],
       "charRef": 61849,
       "fontname": "fontawesome",
       "svg": {
@@ -5635,9 +4141,6 @@ module.exports = {
       "css": "spoon",
       "code": 61873,
       "uid": "3964e28e6bdf85b3b70df3533db69867",
-      "search": [
-        "spoon"
-      ],
       "charRef": 61850,
       "fontname": "fontawesome",
       "svg": {
@@ -5649,9 +4152,6 @@ module.exports = {
       "css": "cube",
       "code": 61874,
       "uid": "fbede3c5584282a0e9b131926dff71da",
-      "search": [
-        "cube"
-      ],
       "charRef": 61851,
       "fontname": "fontawesome",
       "svg": {
@@ -5663,9 +4163,6 @@ module.exports = {
       "css": "cubes",
       "code": 61875,
       "uid": "af95ef0ddda80a78828c62d386506433",
-      "search": [
-        "cubes"
-      ],
       "charRef": 61852,
       "fontname": "fontawesome",
       "svg": {
@@ -5677,9 +4174,6 @@ module.exports = {
       "css": "recycle",
       "code": 61880,
       "uid": "288f930b765216bc04e475740331bdf5",
-      "search": [
-        "recycle"
-      ],
       "charRef": 61853,
       "fontname": "fontawesome",
       "svg": {
@@ -5691,9 +4185,6 @@ module.exports = {
       "css": "tree",
       "code": 61883,
       "uid": "88da60b3a17e5744695682833a178e73",
-      "search": [
-        "tree"
-      ],
       "charRef": 61854,
       "fontname": "fontawesome",
       "svg": {
@@ -5705,9 +4196,6 @@ module.exports = {
       "css": "database",
       "code": 61888,
       "uid": "347c38a8b96a509270fdcabc951e7571",
-      "search": [
-        "database"
-      ],
       "charRef": 61855,
       "fontname": "fontawesome",
       "svg": {
@@ -5719,9 +4207,6 @@ module.exports = {
       "css": "server",
       "code": 62003,
       "uid": "d59ff824282fc6edaeca991deab522aa",
-      "search": [
-        "server"
-      ],
       "charRef": 61856,
       "fontname": "fontawesome",
       "svg": {
@@ -5733,10 +4218,6 @@ module.exports = {
       "css": "lifebuoy",
       "code": 61901,
       "uid": "ebffa4e734c8379ffee4fbfe49264d94",
-      "search": [
-        "lifebuoy",
-        "support"
-      ],
       "charRef": 61857,
       "fontname": "fontawesome",
       "svg": {
@@ -5748,9 +4229,6 @@ module.exports = {
       "css": "rebel",
       "code": 61904,
       "uid": "c53415fbd2695033bd7180d7a9ed4934",
-      "search": [
-        "rebel"
-      ],
       "charRef": 61858,
       "fontname": "fontawesome",
       "svg": {
@@ -5762,9 +4240,6 @@ module.exports = {
       "css": "empire",
       "code": 61905,
       "uid": "6632ce1019f9115842335622cb55f4e7",
-      "search": [
-        "empire"
-      ],
       "charRef": 61859,
       "fontname": "fontawesome",
       "svg": {
@@ -5776,9 +4251,6 @@ module.exports = {
       "css": "bomb",
       "code": 61922,
       "uid": "49ef53dc31aa9442d77f6ba4f559b528",
-      "search": [
-        "bomb"
-      ],
       "charRef": 61860,
       "fontname": "fontawesome",
       "svg": {
@@ -5790,10 +4262,6 @@ module.exports = {
       "css": "soccer-ball",
       "code": 61923,
       "uid": "cf62866c0cfe3dd14455b381c724f8e1",
-      "search": [
-        "soccer",
-        "ball"
-      ],
       "charRef": 61861,
       "fontname": "fontawesome",
       "svg": {
@@ -5805,10 +4273,6 @@ module.exports = {
       "css": "tty",
       "code": 61924,
       "uid": "3e1c9aac91dc062dc1af383d43f58ac5",
-      "search": [
-        "tty",
-        "teletype"
-      ],
       "charRef": 61862,
       "fontname": "fontawesome",
       "svg": {
@@ -5820,9 +4284,6 @@ module.exports = {
       "css": "binoculars",
       "code": 61925,
       "uid": "73ffeb70554099177620847206c12457",
-      "search": [
-        "binoculars"
-      ],
       "charRef": 61863,
       "fontname": "fontawesome",
       "svg": {
@@ -5834,9 +4295,6 @@ module.exports = {
       "css": "plug",
       "code": 61926,
       "uid": "a14be0c7e0689076e2bdde97f8e309f9",
-      "search": [
-        "plug"
-      ],
       "charRef": 61864,
       "fontname": "fontawesome",
       "svg": {
@@ -5848,9 +4306,6 @@ module.exports = {
       "css": "newspaper",
       "code": 61930,
       "uid": "032bd8bbd70adf90ead98b6813bfe446",
-      "search": [
-        "newspaper"
-      ],
       "charRef": 61865,
       "fontname": "fontawesome",
       "svg": {
@@ -5862,9 +4317,6 @@ module.exports = {
       "css": "calc",
       "code": 61932,
       "uid": "1ee2aeb352153a403df4b441a8bc9bda",
-      "search": [
-        "calculator"
-      ],
       "charRef": 61866,
       "fontname": "fontawesome",
       "svg": {
@@ -5876,9 +4328,6 @@ module.exports = {
       "css": "copyright",
       "code": 61945,
       "uid": "4a74a0f87d4089efe7aba1825bff4193",
-      "search": [
-        "copyright"
-      ],
       "charRef": 61867,
       "fontname": "fontawesome",
       "svg": {
@@ -5890,9 +4339,6 @@ module.exports = {
       "css": "at",
       "code": 61946,
       "uid": "33194d4a025fbf12baca54579afe4c8e",
-      "search": [
-        "at"
-      ],
       "charRef": 61868,
       "fontname": "fontawesome",
       "svg": {
@@ -5904,10 +4350,6 @@ module.exports = {
       "css": "eyedropper",
       "code": 61947,
       "uid": "88e6faa0f633ee23667f815689e82af3",
-      "search": [
-        "eyedropper",
-        "pipette"
-      ],
       "charRef": 61869,
       "fontname": "fontawesome",
       "svg": {
@@ -5919,9 +4361,6 @@ module.exports = {
       "css": "brush",
       "code": 61948,
       "uid": "fa9a0b7e788c2d78e24cef1de6b70e80",
-      "search": [
-        "brush"
-      ],
       "charRef": 61870,
       "fontname": "fontawesome",
       "svg": {
@@ -5933,10 +4372,6 @@ module.exports = {
       "css": "birthday",
       "code": 61949,
       "uid": "bc61ebcf2f5d8d08b1e9e62167df7617",
-      "search": [
-        "cake",
-        "birthday"
-      ],
       "charRef": 61871,
       "fontname": "fontawesome",
       "svg": {
@@ -5948,9 +4383,6 @@ module.exports = {
       "css": "diamond",
       "code": 61977,
       "uid": "f85affb51c357be83d187344c8c6e35c",
-      "search": [
-        "diamond"
-      ],
       "charRef": 61872,
       "fontname": "fontawesome",
       "svg": {
@@ -5962,10 +4394,6 @@ module.exports = {
       "css": "street-view",
       "code": 61981,
       "uid": "3c7eb0c1678e6fa93cc4264bad3150d6",
-      "search": [
-        "street",
-        "view"
-      ],
       "charRef": 61873,
       "fontname": "fontawesome",
       "svg": {
@@ -5977,10 +4405,6 @@ module.exports = {
       "css": "venus",
       "code": 61985,
       "uid": "95501182783a570088194c41bc63543b",
-      "search": [
-        "venus",
-        "astrology"
-      ],
       "charRef": 61874,
       "fontname": "fontawesome",
       "svg": {
@@ -5992,10 +4416,6 @@ module.exports = {
       "css": "mars",
       "code": 61986,
       "uid": "5d5d8995aa777cb59c88671e89ab5ced",
-      "search": [
-        "mars",
-        "astrology"
-      ],
       "charRef": 61875,
       "fontname": "fontawesome",
       "svg": {
@@ -6007,10 +4427,6 @@ module.exports = {
       "css": "mercury",
       "code": 61987,
       "uid": "c3c269bbbf641affca7e52beb39f7909",
-      "search": [
-        "mercury",
-        "astrology"
-      ],
       "charRef": 61876,
       "fontname": "fontawesome",
       "svg": {
@@ -6022,10 +4438,6 @@ module.exports = {
       "css": "transgender",
       "code": 61988,
       "uid": "d589e468da8556b0701206cfdfcfc567",
-      "search": [
-        "transgender",
-        "astrology"
-      ],
       "charRef": 61877,
       "fontname": "fontawesome",
       "svg": {
@@ -6037,10 +4449,6 @@ module.exports = {
       "css": "transgender-alt",
       "code": 61989,
       "uid": "5a77a57792f5bfd20fb80827af089d17",
-      "search": [
-        "transgender",
-        "astrology"
-      ],
       "charRef": 61878,
       "fontname": "fontawesome",
       "svg": {
@@ -6052,10 +4460,6 @@ module.exports = {
       "css": "venus-double",
       "code": 61990,
       "uid": "6c6165b9b97c471cc4c6366f9cf84537",
-      "search": [
-        "venus",
-        "astrology"
-      ],
       "charRef": 61879,
       "fontname": "fontawesome",
       "svg": {
@@ -6067,10 +4471,6 @@ module.exports = {
       "css": "mars-double",
       "code": 61991,
       "uid": "3bc42da674bdbebcb6471ceb42966d33",
-      "search": [
-        "mars",
-        "astrology"
-      ],
       "charRef": 61880,
       "fontname": "fontawesome",
       "svg": {
@@ -6082,11 +4482,6 @@ module.exports = {
       "css": "venus-mars",
       "code": 61992,
       "uid": "4ced65e721620e2b3e77b02d54af4100",
-      "search": [
-        "venus",
-        "mars",
-        "astrology"
-      ],
       "charRef": 61881,
       "fontname": "fontawesome",
       "svg": {
@@ -6098,10 +4493,6 @@ module.exports = {
       "css": "mars-stroke",
       "code": 61993,
       "uid": "6d4f6e98584c8b8ec08bd47a96ed86c4",
-      "search": [
-        "mars",
-        "astrology"
-      ],
       "charRef": 61882,
       "fontname": "fontawesome",
       "svg": {
@@ -6113,10 +4504,6 @@ module.exports = {
       "css": "mars-stroke-v",
       "code": 61994,
       "uid": "4162b5adba555571ca1be76baa365b9c",
-      "search": [
-        "mars",
-        "astrology"
-      ],
       "charRef": 61883,
       "fontname": "fontawesome",
       "svg": {
@@ -6128,10 +4515,6 @@ module.exports = {
       "css": "mars-stroke-h",
       "code": 61995,
       "uid": "10bd8ed7a393f773e81d145ad5523beb",
-      "search": [
-        "mars",
-        "astrology"
-      ],
       "charRef": 61884,
       "fontname": "fontawesome",
       "svg": {
@@ -6143,10 +4526,6 @@ module.exports = {
       "css": "neuter",
       "code": 61996,
       "uid": "14896a85fab311b3a5a9b614fe8c6874",
-      "search": [
-        "neuter",
-        "astrology"
-      ],
       "charRef": 61885,
       "fontname": "fontawesome",
       "svg": {
@@ -6158,10 +4537,6 @@ module.exports = {
       "css": "cc-visa",
       "code": 61936,
       "uid": "e3ed188ab8569b45cf41e74ce81aa86e",
-      "search": [
-        "visa",
-        "card"
-      ],
       "charRef": 61886,
       "fontname": "fontawesome",
       "svg": {
@@ -6173,10 +4548,6 @@ module.exports = {
       "css": "cc-mastercard",
       "code": 61937,
       "uid": "4b1bfce8593a2c1c7d60b9145ada2adf",
-      "search": [
-        "mastercard",
-        "card"
-      ],
       "charRef": 61887,
       "fontname": "fontawesome",
       "svg": {
@@ -6188,10 +4559,6 @@ module.exports = {
       "css": "cc-discover",
       "code": 61938,
       "uid": "6413682e05e1c65d13cb76fbca6d67e1",
-      "search": [
-        "discover",
-        "card"
-      ],
       "charRef": 61888,
       "fontname": "fontawesome",
       "svg": {
@@ -6203,10 +4570,6 @@ module.exports = {
       "css": "cc-amex",
       "code": 61939,
       "uid": "4e7a8235533632f4df7ba7a2c68cd39d",
-      "search": [
-        "amex",
-        "card"
-      ],
       "charRef": 61889,
       "fontname": "fontawesome",
       "svg": {
@@ -6218,10 +4581,6 @@ module.exports = {
       "css": "cc-paypal",
       "code": 61940,
       "uid": "b83f99fd47bff831e25255c9bbbbabe7",
-      "search": [
-        "paypal",
-        "card"
-      ],
       "charRef": 61890,
       "fontname": "fontawesome",
       "svg": {
@@ -6233,10 +4592,6 @@ module.exports = {
       "css": "cc-stripe",
       "code": 61941,
       "uid": "9698d35be5c118ec7521a98130fddc67",
-      "search": [
-        "stripe",
-        "card"
-      ],
       "charRef": 61891,
       "fontname": "fontawesome",
       "svg": {
@@ -6248,9 +4603,6 @@ module.exports = {
       "css": "adn",
       "code": 61808,
       "uid": "ef98b489bfb943225e6761cfa9999e9b",
-      "search": [
-        "adn"
-      ],
       "charRef": 61892,
       "fontname": "fontawesome",
       "svg": {
@@ -6262,9 +4614,6 @@ module.exports = {
       "css": "android",
       "code": 61819,
       "uid": "809f2374b759f5b9278ac6307e690ba4",
-      "search": [
-        "android"
-      ],
       "charRef": 61893,
       "fontname": "fontawesome",
       "svg": {
@@ -6276,9 +4625,6 @@ module.exports = {
       "css": "angellist",
       "code": 61961,
       "uid": "3fb64dab2b2e0a6cefa161387250c620",
-      "search": [
-        "angellist"
-      ],
       "charRef": 61894,
       "fontname": "fontawesome",
       "svg": {
@@ -6290,9 +4636,6 @@ module.exports = {
       "css": "apple",
       "code": 61817,
       "uid": "e9fa538fd5913046497ac148e27cd8ea",
-      "search": [
-        "apple"
-      ],
       "charRef": 61895,
       "fontname": "fontawesome",
       "svg": {
@@ -6304,9 +4647,6 @@ module.exports = {
       "css": "behance",
       "code": 61876,
       "uid": "aa58e30c7196b1378a6ca78c025cc3b5",
-      "search": [
-        "behance"
-      ],
       "charRef": 61896,
       "fontname": "fontawesome",
       "svg": {
@@ -6318,9 +4658,6 @@ module.exports = {
       "css": "behance-squared",
       "code": 61877,
       "uid": "b501bc7737850366e98043c585163eec",
-      "search": [
-        "behance"
-      ],
       "charRef": 61897,
       "fontname": "fontawesome",
       "svg": {
@@ -6332,9 +4669,6 @@ module.exports = {
       "css": "bitbucket",
       "code": 61809,
       "uid": "169f51b7e405de8c03cf85a6e8c740ab",
-      "search": [
-        "bitbucket"
-      ],
       "charRef": 61898,
       "fontname": "fontawesome",
       "svg": {
@@ -6346,9 +4680,6 @@ module.exports = {
       "css": "bitbucket-squared",
       "code": 61810,
       "uid": "4ae56c66a1f93e28b8d4f866db2b018a",
-      "search": [
-        "bitbucket"
-      ],
       "charRef": 61899,
       "fontname": "fontawesome",
       "svg": {
@@ -6360,9 +4691,6 @@ module.exports = {
       "css": "buysellads",
       "code": 61965,
       "uid": "18d3287c351d9799fedb221e4923b2d2",
-      "search": [
-        "buysellads"
-      ],
       "charRef": 61900,
       "fontname": "fontawesome",
       "svg": {
@@ -6374,9 +4702,6 @@ module.exports = {
       "css": "cc",
       "code": 61962,
       "uid": "66faf6c4e3b0e4e33f06171e30253e26",
-      "search": [
-        "cc"
-      ],
       "charRef": 61901,
       "fontname": "fontawesome",
       "svg": {
@@ -6388,9 +4713,6 @@ module.exports = {
       "css": "codeopen",
       "code": 61899,
       "uid": "76675011e906d50af404186b489fc76f",
-      "search": [
-        "codeopen"
-      ],
       "charRef": 61902,
       "fontname": "fontawesome",
       "svg": {
@@ -6402,9 +4724,6 @@ module.exports = {
       "css": "connectdevelop",
       "code": 61966,
       "uid": "aa4ded7a2d22e21c3cfe775efe267120",
-      "search": [
-        "connectdevelop"
-      ],
       "charRef": 61903,
       "fontname": "fontawesome",
       "svg": {
@@ -6416,9 +4735,6 @@ module.exports = {
       "css": "css3",
       "code": 61756,
       "uid": "01c946ce2ed5500e0a918f2b3a7d1923",
-      "search": [
-        "css3"
-      ],
       "charRef": 61904,
       "fontname": "fontawesome",
       "svg": {
@@ -6430,9 +4746,6 @@ module.exports = {
       "css": "dashcube",
       "code": 61968,
       "uid": "71e046578954f177921bcf5b241d0d95",
-      "search": [
-        "dashcube"
-      ],
       "charRef": 61905,
       "fontname": "fontawesome",
       "svg": {
@@ -6444,9 +4757,6 @@ module.exports = {
       "css": "delicious",
       "code": 61861,
       "uid": "6975c4c656d41a0283d9c52516bf38ed",
-      "search": [
-        "delicious"
-      ],
       "charRef": 61906,
       "fontname": "fontawesome",
       "svg": {
@@ -6458,9 +4768,6 @@ module.exports = {
       "css": "deviantart",
       "code": 61885,
       "uid": "54fad985c676a007c79c346ebaec29d6",
-      "search": [
-        "deviantart"
-      ],
       "charRef": 61907,
       "fontname": "fontawesome",
       "svg": {
@@ -6472,9 +4779,6 @@ module.exports = {
       "css": "digg",
       "code": 61862,
       "uid": "ef0e69c3275e8c845aca69a79900092d",
-      "search": [
-        "digg"
-      ],
       "charRef": 61908,
       "fontname": "fontawesome",
       "svg": {
@@ -6486,9 +4790,6 @@ module.exports = {
       "css": "dribbble",
       "code": 61821,
       "uid": "199c44bca402ec5a6351f75ba5228375",
-      "search": [
-        "dribbble"
-      ],
       "charRef": 61909,
       "fontname": "fontawesome",
       "svg": {
@@ -6500,9 +4801,6 @@ module.exports = {
       "css": "dropbox",
       "code": 61803,
       "uid": "9e34a047fee949eae9b6e613d790d6cf",
-      "search": [
-        "dropbox"
-      ],
       "charRef": 61910,
       "fontname": "fontawesome",
       "svg": {
@@ -6514,9 +4812,6 @@ module.exports = {
       "css": "drupal",
       "code": 61865,
       "uid": "d16ba9078d51e79b5ad6af0235adbd54",
-      "search": [
-        "drupal"
-      ],
       "charRef": 61911,
       "fontname": "fontawesome",
       "svg": {
@@ -6528,9 +4823,6 @@ module.exports = {
       "css": "facebook",
       "code": 61594,
       "uid": "8e04c98c8f5ca0a035776e3001ad2638",
-      "search": [
-        "facebook"
-      ],
       "charRef": 61912,
       "fontname": "fontawesome",
       "svg": {
@@ -6542,9 +4834,6 @@ module.exports = {
       "css": "facebook-squared",
       "code": 62216,
       "uid": "4743b088aa95d6f3b6b990e770d3b647",
-      "search": [
-        "facebook"
-      ],
       "charRef": 61913,
       "fontname": "fontawesome",
       "svg": {
@@ -6556,9 +4845,6 @@ module.exports = {
       "css": "facebook-official",
       "code": 62000,
       "uid": "6cc7af3e5b55720bcb6ef68372ce24be",
-      "search": [
-        "facebook"
-      ],
       "charRef": 61914,
       "fontname": "fontawesome",
       "svg": {
@@ -6570,9 +4856,6 @@ module.exports = {
       "css": "flickr",
       "code": 61806,
       "uid": "649004fb1ed50395a33c3780236ba8aa",
-      "search": [
-        "flickr"
-      ],
       "charRef": 61915,
       "fontname": "fontawesome",
       "svg": {
@@ -6584,9 +4867,6 @@ module.exports = {
       "css": "forumbee",
       "code": 61969,
       "uid": "7b7116fa67e5e3f4c98e5928ebe3f6ae",
-      "search": [
-        "forumbee"
-      ],
       "charRef": 61916,
       "fontname": "fontawesome",
       "svg": {
@@ -6598,9 +4878,6 @@ module.exports = {
       "css": "foursquare",
       "code": 61824,
       "uid": "a32d12927584e3c8a3dff23eb816d360",
-      "search": [
-        "foursquare"
-      ],
       "charRef": 61917,
       "fontname": "fontawesome",
       "svg": {
@@ -6612,9 +4889,6 @@ module.exports = {
       "css": "git-squared",
       "code": 61906,
       "uid": "c75b7d61b0bce6aeb54292e3952a1568",
-      "search": [
-        "git"
-      ],
       "charRef": 61918,
       "fontname": "fontawesome",
       "svg": {
@@ -6626,9 +4900,6 @@ module.exports = {
       "css": "git",
       "code": 61907,
       "uid": "e7cb72a17f3b21e3576f35c3f0a7639b",
-      "search": [
-        "git"
-      ],
       "charRef": 61919,
       "fontname": "fontawesome",
       "svg": {
@@ -6640,9 +4911,6 @@ module.exports = {
       "css": "github",
       "code": 61715,
       "uid": "5e0a374728ffa8d0ae1f331a8f648231",
-      "search": [
-        "github"
-      ],
       "charRef": 61920,
       "fontname": "fontawesome",
       "svg": {
@@ -6654,9 +4922,6 @@ module.exports = {
       "css": "github-squared",
       "code": 62208,
       "uid": "0ece9a12de796b8411f868d582bee678",
-      "search": [
-        "github"
-      ],
       "charRef": 61921,
       "fontname": "fontawesome",
       "svg": {
@@ -6668,9 +4933,6 @@ module.exports = {
       "css": "github-circled",
       "code": 61595,
       "uid": "0f6a2573a7b6df911ed199bb63717e27",
-      "search": [
-        "github"
-      ],
       "charRef": 61922,
       "fontname": "fontawesome",
       "svg": {
@@ -6682,9 +4944,6 @@ module.exports = {
       "css": "gittip",
       "code": 61828,
       "uid": "5b4b48418155c35459f12171f97c82ff",
-      "search": [
-        "gittip"
-      ],
       "charRef": 61923,
       "fontname": "fontawesome",
       "svg": {
@@ -6696,9 +4955,6 @@ module.exports = {
       "css": "google",
       "code": 61856,
       "uid": "f06fe7ff18d1c591bc1183cb3ab105e9",
-      "search": [
-        "google"
-      ],
       "charRef": 61924,
       "fontname": "fontawesome",
       "svg": {
@@ -6710,10 +4966,6 @@ module.exports = {
       "css": "gplus",
       "code": 61653,
       "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
-      "search": [
-        "google",
-        "plus"
-      ],
       "charRef": 61925,
       "fontname": "fontawesome",
       "svg": {
@@ -6725,10 +4977,6 @@ module.exports = {
       "css": "gplus-squared",
       "code": 61652,
       "uid": "f0cf7db1b03cb65adc450aa3bdaf8c4d",
-      "search": [
-        "google",
-        "plus"
-      ],
       "charRef": 61926,
       "fontname": "fontawesome",
       "svg": {
@@ -6740,9 +4988,6 @@ module.exports = {
       "css": "gwallet",
       "code": 61934,
       "uid": "50fbbd926b2a64fcaf384788056c0e43",
-      "search": [
-        "google wallet"
-      ],
       "charRef": 61927,
       "fontname": "fontawesome",
       "svg": {
@@ -6754,10 +4999,6 @@ module.exports = {
       "css": "hacker-news",
       "code": 61908,
       "uid": "237ee28b7e826b75a5b6f51ee3e2bfc1",
-      "search": [
-        "hacker news",
-        "hn"
-      ],
       "charRef": 61928,
       "fontname": "fontawesome",
       "svg": {
@@ -6769,9 +5010,6 @@ module.exports = {
       "css": "html5",
       "code": 61755,
       "uid": "ff44f01f60948555026580eedf1e39bb",
-      "search": [
-        "html5"
-      ],
       "charRef": 61929,
       "fontname": "fontawesome",
       "svg": {
@@ -6783,9 +5021,6 @@ module.exports = {
       "css": "instagram",
       "code": 61805,
       "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
-      "search": [
-        "instagram"
-      ],
       "charRef": 61930,
       "fontname": "fontawesome",
       "svg": {
@@ -6797,9 +5032,6 @@ module.exports = {
       "css": "ioxhost",
       "code": 61960,
       "uid": "9b9e5f3ee9e3525808ed2afc83e8bb0b",
-      "search": [
-        "ioxhost"
-      ],
       "charRef": 61931,
       "fontname": "fontawesome",
       "svg": {
@@ -6811,9 +5043,6 @@ module.exports = {
       "css": "joomla",
       "code": 61866,
       "uid": "8cd1b9899389237def726c08587a649f",
-      "search": [
-        "joomla"
-      ],
       "charRef": 61932,
       "fontname": "fontawesome",
       "svg": {
@@ -6825,9 +5054,6 @@ module.exports = {
       "css": "jsfiddle",
       "code": 61900,
       "uid": "486f6d0a05aef9e65eeb07be26793bd3",
-      "search": [
-        "jsfiddle"
-      ],
       "charRef": 61933,
       "fontname": "fontawesome",
       "svg": {
@@ -6839,9 +5065,6 @@ module.exports = {
       "css": "lastfm",
       "code": 61954,
       "uid": "5dcf6620378353c5b0089b12d961fedf",
-      "search": [
-        "lastfm"
-      ],
       "charRef": 61934,
       "fontname": "fontawesome",
       "svg": {
@@ -6853,9 +5076,6 @@ module.exports = {
       "css": "lastfm-squared",
       "code": 61955,
       "uid": "32e335f0cd5c4fcc692af6fa742f6b7e",
-      "search": [
-        "lastfm"
-      ],
       "charRef": 61935,
       "fontname": "fontawesome",
       "svg": {
@@ -6867,9 +5087,6 @@ module.exports = {
       "css": "leanpub",
       "code": 61970,
       "uid": "f78244d4753a3aa2be87d56b858d148d",
-      "search": [
-        "leanpub"
-      ],
       "charRef": 61936,
       "fontname": "fontawesome",
       "svg": {
@@ -6881,9 +5098,6 @@ module.exports = {
       "css": "linkedin-squared",
       "code": 62220,
       "uid": "1145676a91138011729fa2909997af66",
-      "search": [
-        "linkedin"
-      ],
       "charRef": 61937,
       "fontname": "fontawesome",
       "svg": {
@@ -6895,9 +5109,6 @@ module.exports = {
       "css": "linux",
       "code": 61820,
       "uid": "47a35af762c8e06f3d152750134c8750",
-      "search": [
-        "linux"
-      ],
       "charRef": 61938,
       "fontname": "fontawesome",
       "svg": {
@@ -6909,9 +5120,6 @@ module.exports = {
       "css": "linkedin",
       "code": 61665,
       "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
-      "search": [
-        "linkedin"
-      ],
       "charRef": 61939,
       "fontname": "fontawesome",
       "svg": {
@@ -6923,9 +5131,6 @@ module.exports = {
       "css": "maxcdn",
       "code": 61750,
       "uid": "fcdc6d7a89771d2dbd38eb719aafb2ff",
-      "search": [
-        "maxcdn"
-      ],
       "charRef": 61940,
       "fontname": "fontawesome",
       "svg": {
@@ -6937,9 +5142,6 @@ module.exports = {
       "css": "meanpath",
       "code": 61964,
       "uid": "9b2e17ef8fc33eb2a1c8b5953d51c595",
-      "search": [
-        "meanpath"
-      ],
       "charRef": 61941,
       "fontname": "fontawesome",
       "svg": {
@@ -6951,9 +5153,6 @@ module.exports = {
       "css": "openid",
       "code": 61851,
       "uid": "da8a58b1deff73d1ba89ba1172ca4bcc",
-      "search": [
-        "openid"
-      ],
       "charRef": 61942,
       "fontname": "fontawesome",
       "svg": {
@@ -6965,9 +5164,6 @@ module.exports = {
       "css": "pagelines",
       "code": 61836,
       "uid": "bbf50a560f95a4cce5209d47e71cbc30",
-      "search": [
-        "pagelines"
-      ],
       "charRef": 61943,
       "fontname": "fontawesome",
       "svg": {
@@ -6979,9 +5175,6 @@ module.exports = {
       "css": "paypal",
       "code": 61933,
       "uid": "1d2b426ab6db81a58547ba13d8701ad8",
-      "search": [
-        "paypal"
-      ],
       "charRef": 61944,
       "fontname": "fontawesome",
       "svg": {
@@ -6993,9 +5186,6 @@ module.exports = {
       "css": "pied-piper-squared",
       "code": 61863,
       "uid": "92a4d74aa4e0549812301299020915a5",
-      "search": [
-        "pied-piper"
-      ],
       "charRef": 61945,
       "fontname": "fontawesome",
       "svg": {
@@ -7007,9 +5197,6 @@ module.exports = {
       "css": "pied-piper-alt",
       "code": 61864,
       "uid": "604733d6d4f7ae269a2ea97f4dc7c346",
-      "search": [
-        "pied-piper"
-      ],
       "charRef": 61946,
       "fontname": "fontawesome",
       "svg": {
@@ -7021,9 +5208,6 @@ module.exports = {
       "css": "pinterest",
       "code": 62001,
       "uid": "cc399e4597f157dcbf016be0b7407fea",
-      "search": [
-        "pinterest"
-      ],
       "charRef": 61947,
       "fontname": "fontawesome",
       "svg": {
@@ -7035,9 +5219,6 @@ module.exports = {
       "css": "pinterest-circled",
       "code": 61650,
       "uid": "da851b7c1f84ee83f93b29ae613558dc",
-      "search": [
-        "pinterest"
-      ],
       "charRef": 61948,
       "fontname": "fontawesome",
       "svg": {
@@ -7049,9 +5230,6 @@ module.exports = {
       "css": "pinterest-squared",
       "code": 61651,
       "uid": "79689c4c425b7cdaa2746f510e81e27a",
-      "search": [
-        "pinterest"
-      ],
       "charRef": 61949,
       "fontname": "fontawesome",
       "svg": {
@@ -7063,9 +5241,6 @@ module.exports = {
       "css": "qq",
       "code": 61910,
       "uid": "657ff9fe5df74f1993937aa4b19cf909",
-      "search": [
-        "qq"
-      ],
       "charRef": 61950,
       "fontname": "fontawesome",
       "svg": {
@@ -7077,9 +5252,6 @@ module.exports = {
       "css": "reddit",
       "code": 61857,
       "uid": "9121e3eb89863f67c8bda378eea01a93",
-      "search": [
-        "reddit"
-      ],
       "charRef": 61951,
       "fontname": "fontawesome",
       "svg": {
@@ -7091,9 +5263,6 @@ module.exports = {
       "css": "reddit-squared",
       "code": 61858,
       "uid": "4fc515c6a083b42e628273ab06cb2a90",
-      "search": [
-        "reddit"
-      ],
       "charRef": 61952,
       "fontname": "fontawesome",
       "svg": {
@@ -7105,9 +5274,6 @@ module.exports = {
       "css": "renren",
       "code": 61835,
       "uid": "cfa8a2588cab42a6ff7ba81eb4fec21b",
-      "search": [
-        "renren"
-      ],
       "charRef": 61953,
       "fontname": "fontawesome",
       "svg": {
@@ -7119,9 +5285,6 @@ module.exports = {
       "css": "sellsy",
       "code": 61971,
       "uid": "281020881dd80ef01d0369bf4b80ebef",
-      "search": [
-        "sellsy"
-      ],
       "charRef": 61954,
       "fontname": "fontawesome",
       "svg": {
@@ -7133,9 +5296,6 @@ module.exports = {
       "css": "shirtsinbulk",
       "code": 61972,
       "uid": "770fafc9392963133bb03b4ad4ed3a28",
-      "search": [
-        "shirtsinbulk"
-      ],
       "charRef": 61955,
       "fontname": "fontawesome",
       "svg": {
@@ -7147,9 +5307,6 @@ module.exports = {
       "css": "simplybuilt",
       "code": 61973,
       "uid": "12b38aeedfa5b6672936432bc7d3082c",
-      "search": [
-        "simplybuilt"
-      ],
       "charRef": 61956,
       "fontname": "fontawesome",
       "svg": {
@@ -7161,9 +5318,6 @@ module.exports = {
       "css": "skyatlas",
       "code": 61974,
       "uid": "a0afa21fe64100c16eac19f4e1615c2a",
-      "search": [
-        "skyatlas"
-      ],
       "charRef": 61957,
       "fontname": "fontawesome",
       "svg": {
@@ -7175,9 +5329,6 @@ module.exports = {
       "css": "skype",
       "code": 61822,
       "uid": "58a16628dcbd6456c61218f3d27591be",
-      "search": [
-        "skype"
-      ],
       "charRef": 61958,
       "fontname": "fontawesome",
       "svg": {
@@ -7189,9 +5340,6 @@ module.exports = {
       "css": "slack",
       "code": 61848,
       "uid": "87276033a77d0b9b890125c3639e4f87",
-      "search": [
-        "slack"
-      ],
       "charRef": 61959,
       "fontname": "fontawesome",
       "svg": {
@@ -7203,9 +5351,6 @@ module.exports = {
       "css": "slideshare",
       "code": 61927,
       "uid": "be13b8c668eb18839d5d53107725f1de",
-      "search": [
-        "slideshare"
-      ],
       "charRef": 61960,
       "fontname": "fontawesome",
       "svg": {
@@ -7217,9 +5362,6 @@ module.exports = {
       "css": "soundcloud",
       "code": 61886,
       "uid": "dff942d95eb1b3f1be140e622d0a7c74",
-      "search": [
-        "soundcloud"
-      ],
       "charRef": 61961,
       "fontname": "fontawesome",
       "svg": {
@@ -7231,9 +5373,6 @@ module.exports = {
       "css": "spotify",
       "code": 61884,
       "uid": "fb4794d89b77ab712ad56c0dc4c76c6b",
-      "search": [
-        "spotify"
-      ],
       "charRef": 61962,
       "fontname": "fontawesome",
       "svg": {
@@ -7245,9 +5384,6 @@ module.exports = {
       "css": "stackexchange",
       "code": 61837,
       "uid": "b6d6b3561d705330c7ad2155e8ee94ba",
-      "search": [
-        "stackexchange"
-      ],
       "charRef": 61963,
       "fontname": "fontawesome",
       "svg": {
@@ -7259,9 +5395,6 @@ module.exports = {
       "css": "stackoverflow",
       "code": 61804,
       "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
-      "search": [
-        "stackoverflow"
-      ],
       "charRef": 61964,
       "fontname": "fontawesome",
       "svg": {
@@ -7273,9 +5406,6 @@ module.exports = {
       "css": "steam",
       "code": 61878,
       "uid": "2ec1790207a8ba67a7192c6af1eafec4",
-      "search": [
-        "steam"
-      ],
       "charRef": 61965,
       "fontname": "fontawesome",
       "svg": {
@@ -7287,9 +5417,6 @@ module.exports = {
       "css": "steam-squared",
       "code": 61879,
       "uid": "727544621cb891115c99b4a4cfed01df",
-      "search": [
-        "steam"
-      ],
       "charRef": 61966,
       "fontname": "fontawesome",
       "svg": {
@@ -7301,9 +5428,6 @@ module.exports = {
       "css": "stumbleupon",
       "code": 61860,
       "uid": "3958d12510001a1a172f088893506c27",
-      "search": [
-        "stumbleupon"
-      ],
       "charRef": 61967,
       "fontname": "fontawesome",
       "svg": {
@@ -7315,9 +5439,6 @@ module.exports = {
       "css": "stumbleupon-circled",
       "code": 61859,
       "uid": "7377e22d1e1d2dd079f87b05fb6a11a3",
-      "search": [
-        "stumbleupon"
-      ],
       "charRef": 61968,
       "fontname": "fontawesome",
       "svg": {
@@ -7329,9 +5450,6 @@ module.exports = {
       "css": "tencent-weibo",
       "code": 61909,
       "uid": "d9b33592f56a02af69a36aa64ed452fc",
-      "search": [
-        "tencent-weibo"
-      ],
       "charRef": 61969,
       "fontname": "fontawesome",
       "svg": {
@@ -7343,9 +5461,6 @@ module.exports = {
       "css": "trello",
       "code": 61825,
       "uid": "b846892636bd74112998bb159bdddf27",
-      "search": [
-        "trello"
-      ],
       "charRef": 61970,
       "fontname": "fontawesome",
       "svg": {
@@ -7357,9 +5472,6 @@ module.exports = {
       "css": "tumblr",
       "code": 61811,
       "uid": "43fcf807461234935e65261328e1dff6",
-      "search": [
-        "tumblr"
-      ],
       "charRef": 61971,
       "fontname": "fontawesome",
       "svg": {
@@ -7371,9 +5483,6 @@ module.exports = {
       "css": "tumblr-squared",
       "code": 61812,
       "uid": "5b79895d979c408282b4e92fa7db8e82",
-      "search": [
-        "tumblr"
-      ],
       "charRef": 61972,
       "fontname": "fontawesome",
       "svg": {
@@ -7385,9 +5494,6 @@ module.exports = {
       "css": "twitch",
       "code": 61928,
       "uid": "e70df9acbabaebfbbf9c1dbc3e52ab13",
-      "search": [
-        "twitch"
-      ],
       "charRef": 61973,
       "fontname": "fontawesome",
       "svg": {
@@ -7399,9 +5505,6 @@ module.exports = {
       "css": "twitter-squared",
       "code": 62212,
       "uid": "906348dc798a0d42715cc97c875e3ac6",
-      "search": [
-        "twitter"
-      ],
       "charRef": 61974,
       "fontname": "fontawesome",
       "svg": {
@@ -7413,9 +5516,6 @@ module.exports = {
       "css": "twitter",
       "code": 61593,
       "uid": "627abcdb627cb1789e009c08e2678ef9",
-      "search": [
-        "twitter"
-      ],
       "charRef": 61975,
       "fontname": "fontawesome",
       "svg": {
@@ -7427,9 +5527,6 @@ module.exports = {
       "css": "vimeo-squared",
       "code": 61844,
       "uid": "1f66490bf24c99e2c56b866d8fbd0372",
-      "search": [
-        "vimeo"
-      ],
       "charRef": 61976,
       "fontname": "fontawesome",
       "svg": {
@@ -7441,9 +5538,6 @@ module.exports = {
       "css": "vine",
       "code": 61898,
       "uid": "676cf66256441f09e4934ae6378b3e2d",
-      "search": [
-        "vine"
-      ],
       "charRef": 61977,
       "fontname": "fontawesome",
       "svg": {
@@ -7455,9 +5549,6 @@ module.exports = {
       "css": "vkontakte",
       "code": 61833,
       "uid": "f3d95e13eb43f3f6b8efe1eb424a1e3b",
-      "search": [
-        "vkontakte"
-      ],
       "charRef": 61978,
       "fontname": "fontawesome",
       "svg": {
@@ -7469,9 +5560,6 @@ module.exports = {
       "css": "whatsapp",
       "code": 62002,
       "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
-      "search": [
-        "whatsapp"
-      ],
       "charRef": 61979,
       "fontname": "fontawesome",
       "svg": {
@@ -7483,9 +5571,6 @@ module.exports = {
       "css": "wechat",
       "code": 61911,
       "uid": "34cb6ce62bf3f1efd59e2f5eb0d79f82",
-      "search": [
-        "wechat"
-      ],
       "charRef": 61980,
       "fontname": "fontawesome",
       "svg": {
@@ -7497,9 +5582,6 @@ module.exports = {
       "css": "weibo",
       "code": 61834,
       "uid": "9854b94688e31450fc76aae4c2a45dff",
-      "search": [
-        "weibo"
-      ],
       "charRef": 61981,
       "fontname": "fontawesome",
       "svg": {
@@ -7511,9 +5593,6 @@ module.exports = {
       "css": "windows",
       "code": 61818,
       "uid": "8aff323697468c4a63993cde00386ec6",
-      "search": [
-        "windows"
-      ],
       "charRef": 61982,
       "fontname": "fontawesome",
       "svg": {
@@ -7525,9 +5604,6 @@ module.exports = {
       "css": "wordpress",
       "code": 61850,
       "uid": "39f52f80e1864df5e5022d7f0f5ff86f",
-      "search": [
-        "wordpress"
-      ],
       "charRef": 61983,
       "fontname": "fontawesome",
       "svg": {
@@ -7539,9 +5615,6 @@ module.exports = {
       "css": "xing",
       "code": 61800,
       "uid": "11ebb30e17efcd988a228ade5d3e8c74",
-      "search": [
-        "xing"
-      ],
       "charRef": 61984,
       "fontname": "fontawesome",
       "svg": {
@@ -7553,9 +5626,6 @@ module.exports = {
       "css": "xing-squared",
       "code": 61801,
       "uid": "f7dff44258aa565cbe35565be350b58d",
-      "search": [
-        "xing"
-      ],
       "charRef": 61985,
       "fontname": "fontawesome",
       "svg": {
@@ -7567,9 +5637,6 @@ module.exports = {
       "css": "yelp",
       "code": 61929,
       "uid": "7a48de2ac7ca47c78d6c279996ee6250",
-      "search": [
-        "yelp"
-      ],
       "charRef": 61986,
       "fontname": "fontawesome",
       "svg": {
@@ -7581,9 +5648,6 @@ module.exports = {
       "css": "youtube",
       "code": 61799,
       "uid": "a9862b9d5197886c1ad693ecd7120b31",
-      "search": [
-        "youtube"
-      ],
       "charRef": 61987,
       "fontname": "fontawesome",
       "svg": {
@@ -7595,9 +5659,6 @@ module.exports = {
       "css": "yahoo",
       "code": 61854,
       "uid": "ba071f2b01f1fed40d8e2366434b6f42",
-      "search": [
-        "yahoo"
-      ],
       "charRef": 61988,
       "fontname": "fontawesome",
       "svg": {
@@ -7609,9 +5670,6 @@ module.exports = {
       "css": "youtube-squared",
       "code": 61798,
       "uid": "e331ff486a299c6bdf0056426c8fac53",
-      "search": [
-        "youtube"
-      ],
       "charRef": 61989,
       "fontname": "fontawesome",
       "svg": {
@@ -7623,10 +5681,6 @@ module.exports = {
       "css": "youtube-play",
       "code": 61802,
       "uid": "47a1f80457068fbeab69fdb83d7d0817",
-      "search": [
-        "youtube",
-        "video"
-      ],
       "charRef": 61990,
       "fontname": "fontawesome",
       "svg": {
@@ -7638,9 +5692,6 @@ module.exports = {
       "css": "blank",
       "code": 61640,
       "uid": "2c2ca8a96b31781c9c8056d05c0a8980",
-      "search": [
-        "blank"
-      ],
       "charRef": 61991,
       "fontname": "fontawesome",
       "svg": {
