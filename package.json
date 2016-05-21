@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "repository": "bjorn-ali-goransson/fontawesome-customizer",
-  "devDependencies": {
+  "dependencies": {
     "base64-js": "^1.1.2",
     "glob": "^7.0.3",
     "jade": "^1.11.0",
