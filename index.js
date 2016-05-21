@@ -1,13 +1,17 @@
 
 
 
+
+
 var fontname = 'fontawesome-webfont';
 
-var tmpDir = __dirname + '/../tmp';
-var glyphs = [
-  'won',
-  'wordpress'
-];
+var tmpDir = 'generated';
+
+var glyphs = ['play', 'times']; //process.argv;
+
+if(!glyphs){
+  console.log('Usage: node ./ thumbs-up thumbs-down play times'); return; // I think ... on my Windows machine, process.argv is always undefined
+}
 
 
 
@@ -15,7 +19,6 @@ var glyphs = [
 
 var less = require('less');
 var _ = require('lodash');
-var fs = require('fs');
 
 
 
@@ -61,6 +64,8 @@ function toJS(node, context) { // https://github.com/aarki/grunt-lessvars/
 
 
 
+
+var fs = require('fs');
 
 process(fs.readFileSync('node_modules/font-awesome/less/variables.less'), function(lessVars){
 
