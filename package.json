@@ -1,0 +1,23 @@
+{
+  "name": "fontawesome-customizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/worker.js",
+  "author": "",
+  "license": "MIT",
+  "repository": "bjorn-ali-goransson/fontawesome-customizer",
+  "devDependencies": {
+    "base64-js": "^1.1.2",
+    "glob": "^7.0.3",
+    "jade": "^1.11.0",
+    "lodash": "^4.12.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.5.2",
+    "stylus": "^0.54.5",
+    "svg2ttf": "^4.0.0",
+    "svgpath": "^2.1.6",
+    "ttf2eot": "^2.0.0",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^2.0.3"
+  }
+}
