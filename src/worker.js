@@ -6,6 +6,62 @@
 
 
 
+var less = require('less');
+var _ = require('lodash');
+var fs = require('fs');
+
+
+
+
+
+function process(contents, callback) { // https://github.com/aarki/grunt-lessvars/
+  // invoke LESS parser, collect variables from AST
+  return less.parse(contents.toString(), {})
+    .then(function(root){
+      callback(collect(root, new less.contexts.Eval({}, [ less.transformTree(root) ]), {}));
+    });
+}
+
+function collect(node, context, variables) { // https://github.com/aarki/grunt-lessvars/
+    _.each(node.rules, function(rule) {
+        if (rule.isRuleset)
+            collect(rule, context, variables);
+        else if (rule.importedFilename)
+            collect(rule.root, context, variables);
+        else if (rule.variable === true) {
+            var name = rule.name.substring(1);
+            var value = rule.value.eval(context);
+            
+            variables[name] = toJS(value, context);
+        }
+    });
+
+    return variables;
+}
+
+function toJS(node, context) { // https://github.com/aarki/grunt-lessvars/
+    switch (node.type) {
+      case 'Dimension':
+        return node.toCSS(context)
+      case 'Quoted':
+        return node.value;
+      case 'Expression':
+        return node.value.map(function(child){ return toJS(child, options, context); });
+    }
+
+    return node.toCSS(context);
+}
+
+
+
+
+
+// process(fs.readFileSync('node_modules/font-awesome/less/variables.less'), console.log);
+
+
+
+
+
 var taskInfo = {
   tmpDir: __dirname + '/../tmp',
   clientConfig: {
@@ -33,7 +89,6 @@ taskInfo.builderConfig = fontConfig(taskInfo.clientConfig);
 
 
 
-var _         = require('lodash');
 
 
 
@@ -47,7 +102,6 @@ console.log('(' + _.map(taskInfo.builderConfig.glyphs, 'css').join(', ') + ')');
 
 
 var path      = require('path');
-var fs        = require('fs');
 var ttf2eot   = require('ttf2eot');
 var ttf2woff  = require('ttf2woff');
 var ttf2woff2 = require('ttf2woff2');
