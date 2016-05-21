@@ -2,7 +2,7 @@
   "name": "fontawesome-customizer",
   "version": "1.0.0",
   "description": "Custom build of FontAwesome - just the fonts you need",
-  "main": "dist/worker.js",
+  "main": "index.js",
   "author": "Björn Ali Göransson",
   "license": "MIT",
   "repository": "bjorn-ali-goransson/fontawesome-customizer",
