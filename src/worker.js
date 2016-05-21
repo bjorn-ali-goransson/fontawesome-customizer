@@ -9,31 +9,16 @@
 var taskInfo = {
   tmpDir: __dirname + '/../tmp',
   clientConfig: {
-    "name": "",
-    "css_prefix_text": "icon-",
-    "css_use_suffix": false,
-    "hinting": true,
-    "units_per_em": 1000,
-    "ascent": 850,
-    "glyphs": [
-      {
-        "uid": "17c21cd98db80e521e573eba247bd69b",
-        "css": "mail-squared",
-        "code": 59392,
-        "src": "fontawesome"
-      },
-      {
-        "uid": "d73eceadda1f594cec0536087539afbf",
-        "css": "heart",
-        "code": 59393,
-        "src": "fontawesome"
-      },
-      {
-        "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
-        "css": "heart-empty",
-        "code": 59394,
-        "src": "fontawesome"
-      }
+    name: '',
+    css_prefix_text: 'icon-',
+    css_use_suffix: false,
+    hinting: true,
+    units_per_em: 1000,
+    ascent: 850,
+    glyphs: [
+      'mail-squared',
+      'heart',
+      'heart-empty'
     ]
   }
 };
@@ -49,6 +34,18 @@ taskInfo.builderConfig = fontConfig(taskInfo.clientConfig);
 
 
 var _         = require('lodash');
+
+
+
+
+
+console.log('Found ' + taskInfo.builderConfig.glyphs.length + ' glyphs');
+console.log('(' + _.map(taskInfo.builderConfig.glyphs, 'css').join(', ') + ')');
+
+
+
+
+
 var path      = require('path');
 var fs        = require('fs');
 var ttf2eot   = require('ttf2eot');

@@ -66,31 +66,31 @@ function collectGlyphsInfo(clientConfig) {
   _.forEach(clientConfig.glyphs, function(glyph) {
     var sp;
 
-    if (glyph.src === 'custom_icons') {
+    // if (glyph.src === 'custom_icons') {
 
-      // for custom glyphs use only selected ones
-      if (!glyph.selected) return;
+      // // for custom glyphs use only selected ones
+      // if (!glyph.selected) return;
 
-      sp = svgpath(glyph.svg.path)
-              .scale(scale, -scale)
-              .translate(0, clientConfig.ascent)
-              .abs().round(0).rel();
+      // sp = svgpath(glyph.svg.path)
+              // .scale(scale, -scale)
+              // .translate(0, clientConfig.ascent)
+              // .abs().round(0).rel();
 
-      result.push({
-        src:      glyph.src,
-        uid:      glyph.uid,
-        code:     glyph.code,
-        css:      glyph.css,
-        width:    +(glyph.svg.width * scale).toFixed(1),
-        d:        sp.toString(),
-        segments: sp.segments.length
-      });
-      return;
-    }
+      // result.push({
+        // src:      glyph.src,
+        // uid:      glyph.uid,
+        // code:     glyph.code,
+        // css:      glyph.css,
+        // width:    +(glyph.svg.width * scale).toFixed(1),
+        // d:        sp.toString(),
+        // segments: sp.segments.length
+      // });
+      // return;
+    // }
 
     // For exmbedded fonts take pregenerated info
 
-    var glyphEmbedded = fontConfigs.uids[glyph.uid];
+    var glyphEmbedded = _.find(fontConfigs.uids, {css: glyph});
 
     if (!glyphEmbedded) return;
 
